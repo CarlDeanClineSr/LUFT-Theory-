@@ -1,0 +1,1600 @@
+Article
+ Spectroscopic confirmation of two luminous 
+galaxies at a redshift of 14
+ https://doi.org/10.1038/s41586-024-07860-9
+ Received: 11 May 2024
+ Accepted: 19 July 2024
+ Published online: 29 July 2024
+ Open access
+ Check for updates
+ Stefano Carniani1 ✉, Kevin Hainline2, Francesco D’Eugenio3,4, Daniel J. Eisenstein5, 
+Peter Jakobsen6,7, Joris Witstok3,4, Benjamin D. Johnson5, Jacopo Chevallard8, 
+Roberto Maiolino3,4,9, Jakob M. Helton2, Chris Willott10, Brant Robertson11, Stacey Alberts2, 
+Santiago Arribas12, William M. Baker3,4, Rachana Bhatawdekar13, Kristan Boyett14,15, 
+Andrew J. Bunker8, Alex J. Cameron8, Phillip A. Cargile5, Stéphane Charlot16,  
+Mirko Curti17, Emma Curtis-Lake18, Eiichi Egami2, Giovanna Giardino19, Kate Isaak20, 
+Zhiyuan Ji2, Gareth C. Jones8, Nimisha Kumari21, Michael V. Maseda22, Eleonora Parlanti1, 
+Pablo G. Pérez-González12, Tim Rawle13, George Rieke2, Marcia Rieke2, 
+Bruno Rodríguez Del Pino12, Aayush Saxena8,9, Jan Scholtz3,4, Renske Smit23, Fengwu Sun2,5, 
+Sandro Tacchella3,4, Hannah Übler3,4, Giacomo Venturi1, Christina C. Williams24 & 
+Christopher N. A. Willmer2
+ The first observations of the James Webb Space Telescope (JWST) have revolutionized 
+our understanding of the Universe by identifying galaxies at redshift z ≈ 13 (refs. 1–3). 
+In addition, the discovery of many luminous galaxies at Cosmic Dawn (z > 10) has 
+suggested that galaxies developed rapidly, in apparent tension with many standard 
+models4–8. However, most of these galaxies lack spectroscopic confirmation, so their 
+distances and properties are uncertain. Here we present JWST Advanced Deep 
+Extragalactic Survey–Near-Infrared Spectrograph spectroscopic confirmation of  
++0.08 and z = 13.90 ± 0.17. The spectra reveal ultraviolet 
+two luminous galaxies at z=14.32−0.20
+ continua with prominent Lyman-α breaks but no detected emission lines. This 
+discovery proves that luminous galaxies were already in place 300 million years after 
+the Big Bang and are more common than what was expected before JWST. The most 
+distant of the two galaxies is unexpectedly luminous and is spatially resolved with a 
+radius of 260 parsecs. Considering also the very steep ultraviolet slope of the second 
+galaxy, we conclude that both are dominated by stellar continuum emission, showing 
+that the excess of luminous galaxies in the early Universe cannot be entirely explained 
+by accretion onto black holes. Galaxy formation models will need to address the 
+existence of such large and luminous galaxies so early in cosmic history.
+ Spectroscopic observations from the James Webb Space Telescope 
+(JWST)–Near-Infrared Spectrograph (NIRSpec)9 have been recently 
+carried out for three candidate galaxies at redshift z > 14, selected within 
+the JWST Advanced Deep Extragalactic Survey (JADES) campaigns10,11. 
+These galaxies were photometrically identified from within the 58 arc
+min2 observations of the GOODS-S field through JWST observations 
+with up to 13 NIRCam and seven Mid-Infrared Instrument (MIRI) fil
+ters7,12,13. On the basis of photometry from the Hubble Space Telescope 
+and Cycle 1 JWST–NIRCam data, the probability of these galaxies being 
+low-redshift interlopers was less than 1% (ref. 12). By happenstance, the 
+brightest of these three candidate galaxies (hereafter JADES-GS-z14-0) 
+is located at a projected distance of only 0.4 arcsec from a foreground 
+galaxy, and this interloper is at a redshift in which its Balmer break is 
+spectrally coincident with the observed photometric Lyman-α break 
+of the distant galaxy. For this reason, and because of its high inferred 
+luminosity at the photometric redshift, JADES-GS-z14-0 was previously 
+considered a low-redshift interloper with a peculiar spectral energy 
+distribution (SED)12,13. The ‘low-redshift solution’ was later disfavoured 
+from the analysis7 of the JWST–NIRCam observations carried out in the 
+JADES Origins Field (JOF) programme11, which included additional deep 
+medium-band NIRCam observations that substantially strengthened 
+the case for the source being at high redshift.
+ 1Scuola Normale Superiore, Pisa, Italy. 2Steward Observatory, University of Arizona, Tucson, AZ, USA. 3Kavli Institute for Cosmology, University of Cambridge, Cambridge, UK. 4Cavendish 
+Laboratory, University of Cambridge, Cambridge, UK. 5Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA, USA. 6Cosmic Dawn Center (DAWN), Copenhagen, Denmark.  
+7Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark. 8Department of Physics, University of Oxford, Oxford, UK. 9Department of Physics and Astronomy, University College 
+London, London, UK. 10NRC Herzberg, Victoria, British Columbia, Canada. 11Department of Astronomy and Astrophysics, University of California, Santa Cruz, Santa Cruz, CA, USA. 12Centro de 
+Astrobiología (CAB), CSIC–INTA, Madrid, Spain. 13European Space Agency (ESA), European Space Astronomy Centre (ESAC), Madrid, Spain. 14School of Physics, University of Melbourne, 
+Parkville, Victoria, Australia. 15ARC Centre of Excellence for All Sky Astrophysics in 3 Dimensions (ASTRO 3D), Melbourne, Victoria, Australia. 16Institut d’Astrophysique de Paris, Sorbonne 
+Université, CNRS, Paris, France. 17European Southern Observatory, Garching, Germany. 18Centre for Astrophysics Research, Department of Physics, Astronomy and Mathematics, University  
+of Hertfordshire, Hatfield, UK. 19ATG Europe for the European Space Agency, ESTEC, Noordwijk, the Netherlands. 20European Space Agency, ESTEC, Noordwijk, the Netherlands. 21AURA for 
+European Space Agency, Space Telescope Science Institute, Baltimore, MD, USA. 22Department of Astronomy, University of Wisconsin-Madison, Madison, WI, USA. 23Astrophysics Research 
+Institute, Liverpool John Moores University, Liverpool, UK. 24NSF’s National Optical-Infrared Astronomy Research Laboratory, Tucson, AZ, USA. ✉e-mail: stefano.carniani@sns.it
+ 318 | Nature | Vol 633 | 12 September 2024
+a
+ F090W F150W
+ 0.9 μm
+ 0.9 μm
+ 0.9 μm
+ F150W F200W
+ F200W
+ 1.5 μm
+ 1.5 μm
+ 1.5 μm
+ Fλ
+ (10–21 erg s–1 cm−2 Å–1)
+ 0 
+1 
+2 
+3 
+4–1
+ 2.0 μm
+ 2.0 μm
+ 2.0 μm
+ F277W
+ 2.7 μm
+ 2.7 μm
+ 2.7 μm
+ F356W
+ 3.5 μm
+ 3.5 μm
+ 3.5 μm
+ F444W
+ 4.4 μm
+ 4.4 μm
+ 4.4 μm
+ JADES-GS-z14-0
+ X-disp.
+ (shutter pitch) 
+2
+ 0–2
+ 1.0
+ b
+ 1.5
+ 2.0
+ F090W F150W
+ 0.9 μm
+ 0.9 μm
+ 0.9 μm
+ 2.5
+ 3.0
+ 3.5
+ Observed frame λ (μm)
+ F150W F200W
+ F200W
+ 1.5 μm
+ 1.5 μm
+ 1.5 μm
+ Fλ
+ (10–21 erg s–1 cm−2 Å–1)
+ 1.5
+ 1.0
+ 0.5
+ 0–0.5
+ 2.0 μm
+ 2.0 μm
+ 2.0 μm
+ F277W
+ 2.7 μm
+ 2.7 μm
+ 2.7 μm
+ 4.0
+ 3.5 μm
+ 3.5 μm
+ 3.5 μm
+ 4.5
+ F356W
+ 5.0
+ F444W
+ 4.4 μm
+ 4.4 μm
+ 4.4 μm
+ JADES-GS-z14-1
+ X-disp.
+ (shutter pitch) 
+2
+ 0
+ 2
+ 0–2
+ 2–2
+ 1.0
+ 1.5
+ 2.0
+ 2.5
+ 3.0
+ 3.5
+ Observed frame λ (μm)
+ Fig. 1 | Spectra of the two z ≈ 14 galaxies. a,b, NIRSpec prism (R = 100) spectra 
+for JADES-GS-z14-0 (a) and JADES-GS-z14-1 (b). For each galaxy, the centre  
+panel shows the 1D spectrum (black) and the associated 1σ uncertainty  
+(light blue). The bottom panels show the 2D spectrum of the signal-to-noise 
+ratio (SNR) to better highlight the contrast across the break at roughly 1.8 μm. 
+4.0
+ 4.5
+ 5.0
+ 0–2
+ SNR
+ SNR
+ The 2D spectra illustrate the signal-to-noise ratio of the spectra as a function  
+of wavelength and along cross-dispersion direction (X-disp.) Inset stamps in 
+the top panels are cutouts of some of the NIRCam JADES images. The NIRSpec 
+three-shutter slitlets are shown in red in each F277W image.
+ The three galaxies were observed with NIRSpec in multi-object spec
+troscopic mode14, within a single NIRSpec field of view of 9 arcmin2, 
+with both the low-resolution prism and all three medium-resolution 
+gratings probing the wavelength range 0.6–5.2 μm with spectral resolv
+ing powers R ≈ 100 and R ≈ 1,000, respectively. Owing to both the low 
+luminosity of the source and NIRSpec slit losses, the faintest candidate 
+is not significantly detected in the NIRSpec observations (Methods), 
+so hereon we focus on the other two galaxies, JADES-GS-z14-0 and 
+JADES-GS-z14-1, which have been unambiguously detected in the prism 
+spectra.
+ Figure 1 shows the prism spectra of JADES-GS-z14-0 and JADES-GS- 
+z14-1; there are no prominent emission lines, but both galaxies show a 
+clear break in the flux density with no flux detected blueward of 1.85 μm, 
+the sharpness of which can only be explained as a Lyman-α break1,2, 
+placing both galaxies at z ≈ 14.
+ We have also obtained the spectrum of the low-redshift galaxy 
+0.4 arcsec east of JADES-GS-z14-0, which has revealed several promi
+nent emission lines (for example, [OIII]λλ4959,5007 and Hα), plac
+ing this projected nearby source at a redshift of z = 3.475 (Methods).  
+At this redshift, its Balmer break is at 1.62 μm, excluding the possibility 
+that the sharp break in the flux density at 1.85 μm observed in the spec
+trum of JADES-GS-z14-0 is caused by contamination from the nearby 
+foreground source. The presence of the nearby low-redshift galaxy, 
+however, mildly boosts the luminosity of JADES-GS-z14-0 by means of 
+gravitational lensing. We have verified that the magnification factor is 
+less than a factor of 1.2 (Methods).
+ A redshift determination for galaxies within the epoch of reionization 
+based solely on the Lyman-α break is sensitive to the absorption of 
+neutral hydrogen along the line of sight1,3,15. We have thus estimated 
+the redshift of the two galaxies by parameterizing the rest-frame  
+UV continuum emission with a power law of the form F λ
+ λ
+ ∝
+ β
+ and taking 
+into account the many physical processes that can shape the 
+Lyman-break profile in the prism spectra (Methods). The redshifts we 
+have recovered from our best-fitting models are z=14.32−0.20
+ +0.08 and 
+z = 13.90 ± 0.17 for JADES-GS-z14-0 and JADES-GS-z14-1, respectively.
+ In the redshift range inferred by fitting the Lyman-break profile, we 
+have also found a tentative detection of CIII]λλ1907,1909 (hereafter 
+CIII]) emission at 2.89 μm in JADES-GS-z14-0 (Methods) at a level of 
+Nature | Vol 633 | 12 September 2024 | 319
+320 | Nature | Vol 633 | 12 September 2024
+ Article
+ significance of 3.6σ. If confirmed in future NIRSpec observations, this 
+line yields a redshift of 14.178 ± 0.013 and the presence of damped 
+Lyman-α absorption with a neutral hydrogen column density of 
+N log ( /cm )=22.23±0.08 10 HI
+ −2 is necessary to match the wavelength 
+and shape of the Lyman-α break.
+ These are the earliest galaxies with spectroscopically confirmed 
+redshifts, exceeding the previous high marks of z = 13.2 (refs. 1,3) and 
+z = 13.07 (ref. 2). Furthermore, these two galaxies are luminous with a 
+rest-frame UV absolute luminosity at 1,500 Å of MUV
+ = −20.81 and 
+MUV
+ = −19.00, respectively. We particularly highlight JADES-GS-z14-0, 
+which despite its redshift is the third most UV luminous of the 700 z > 8 
+candidates in JADES, twice more luminous than GHZ2 (refs. 16,17), and 
+only a factor of two less luminous than GN-z11 (refs. 18,19). We illustrate 
+the distribution of UV luminosity and redshift in Fig. 2. We stress that 
+the high luminosity is particularly important in view of the rapidly 
+evolving halo mass function expected in cold-dark-matter cosmology. 
+From an N-body simulation run with Abacus20, we estimate that the 
+halo mass threshold required to yield a fixed comoving abundance 
+varies as z (1+ )−6 for this region of mass and redshift. A dimensional 
+scaling for luminosity would be halo mass divided by the age of the 
+Universe, which is scaling as z (1+ )−3/2, yielding a simple baseline that 
+luminosities might scale as z (1+ )−4.5. Overplotting such a scaling on 
+Fig. 2 shows how remarkable JADES-GS-z14-0 is: it shows most notably 
+that some astrophysical processes are creating a deviation from the 
+dimensional scaling of halo mass and the Hubble time. Even 
+JADES-GS-z14-1, although more similar in MUV
+ to the lower redshift 
+family, is distinctively luminous by this metric. We, therefore, argue 
+that these two galaxies, and particularly JADES-GS-z14-0, provide a 
+crisp spectroscopic confirmation to the trend that has been inferred 
+several times from photometric samples4,6–8 that the galaxy UV lumi
+nosity function evolves slowly, with more luminous galaxies at high 
+redshift than predicted in a variety of pre-JWST predictions. Having 
+established the remarkable redshifts and luminosities of these sources, 
+we now turn to a more detailed analysis of them.
+ From the spectrum redward of the break, we measure a power-law 
+index β, also known as the UV slope, of −2.20 ± 0.07 and −2.71 ± 0.19 
+for JADES-GS-z14-0 and JADES-GS-z14-1, respectively. These results 
+indicate that the emission is dominated by a relatively young (less than 
+300 Myr) stellar population and low dust attenuation21–23. We note 
+that the stellar UV slope could be also modified by two-photon and 
+free-bound nebular continuum emission21–27. However, we can rule out 
+a strong two-photon contribution in our galaxies due to the lack of the 
+characteristic peak at 1,500 Å (ref. 27). The absence of emission lines 
+disfavours free-bound emission, but this possibility cannot be fully 
+ruled out because, at z ≈ 14, NIRSpec does not cover the Balmer break 
+nor any Balmer emission lines.
+ The physical properties of the two galaxies have been inferred  
+by means of spectro-photometric modelling of their SEDs within a 
+Bayesian framework. The details of the modelling and the posterior 
+distribution of free parameters are discussed in Methods, whereas the 
+galaxy properties are reported in Table 1. The inferred star-formation 
+history indicates that these galaxies have grown their masses over the 
+last 100 Myr, suggesting that the observed stellar population started 
+forming at z ≈ 20 with a rapid growth up to z ≈ 14 (ref. 28). We also note 
+that the SED modelling favours a high escape fraction of ionizing pho
+tons (f >0.35 esc
+ LyC ) to reproduce the blue UV slopes and the absence of  
+emission lines in both galaxies.
+ The NIRCam images of JADES-GS-z14-0 clearly show that the source 
+is extended, whereas JADES-GS-z14-1 is more compact. Figure 3 shows 
+the radial profile of the emission at 2 μm of the two galaxies. The 
+radial surface brightness profile of JADES-GS-z14-0 shows emission 
+extended up to 1 kpc (kilopc), significantly beyond the point spread 
+function of JWST. We also note that the profile is significantly more 
+extended than the UV emission of the two more luminous galaxies 
+at z > 10: GN-z11 (refs. 19,29) and GHZ2 (refs. 16,17). Using ForcePho 
+(Methods) to fit the imaging data, we find that the galaxy is well fit by 
+an elliptical exponential profile with a deconvolved half-light radius 
+200 300 400 500 600
+ Age of the Universe (Myr)–22–21–20–19–18–17–16
+ Absolute magnitude (MUV)
+ JADES-GS-z14-1 JADES-GS-z14-1 JADES-GS-z14-1 JADES-GS-z14-1
+ JADES-GS-z14-0 JADES-GS-z14-0 JADES-GS-z14-0 JADES-GS-z14-0
+ GNz11 GNz11 GNz11 GNz11
+ GHZ2 GHZ2 GHZ2 GHZ2
+ This work
+ 8 10 12 14 16 18
+ Redshift
+ Fig. 2 | UV absolute magnitudes of galaxies at z > 8. The blue circles are 
+candidate high-z galaxies in the GOODS-S and GOODS-N identified in JADES12 
+and the red squares are the spectroscopically confirmed galaxies19,44,45. For 
+comparison, we also report the galaxy GHZ2 (refs. 16,17) from the Grism Lens- 
+Amplified Survey from Space (red pentagon). The empty black circles highlight 
+the targets analysed in this work. The relatively low number of galaxies near z = 10 
+is an artefact of photometric-redshift selections. The dashed lines illustrate a 
+semi-empirical luminosity evolution ( z ∝(1+ )−4.5) of haloes of a given comoving 
+abundances.
+ Table 1 | Galaxy properties
+ ID JADES-GS-z14-0 JADES-GS-z14-1
+ Extended ID JADES-GS-53.08294− 
+27.85563
+ JADES-GS-53.07427− 
+27.88592
+ NIRCam ID 183348 18044
+ Right ascension (ICRS) 3 h 32 min 19.905 s 3 h 32 min 17.825 s
+ Declination (ICRS) −27° 51′ 20.27″ −27° 53′ 09.33″
+ Redshift −
+ + 14.320.20
+ 0.08 13.90 ± 0.17
+ UV slope β −2.20 ± 0.07 −2.71 ± 0.19
+ MUV
+ −20.81 ± 0.16b −19.0 ± 0.4
+ UV radius (rUV
+ ) (pc) 260 ± 20 <160
+ log10
+ (Mstar
+ /M☉
+ )a 8.60.2
+ 0.7
+ −
+ + b
+ −
+ + 8.00.3
+ 0.4
+ M SFR ( yr ) 100
+ 1
+ 
+ − 43
+ 9
+ −
+ + b
+ −
+ + 1.20.9
+ 0.7
+  M SFR ( yr ) 10
+ 1 − 19 ± 6b
+ −
+ + 20.4
+ 0.7
+ sSFR (Gyr ) 10
+ 1 − 4535
+ 56
+ −
+ + 1838
+ 75
+ −
+ +
+ AV
+ (mag) 0.310.07
+ 0.14
+ −
+ + 0.200.07
+ 0.11
+ −
+ +
+ ZZ log ( / ) 10  1.50.4
+ 0.7 − −
+ + 1.10.5
+ 0.6 − −
+ +
+ fesc
+ LyC
+ −
+ + 0.840.16
+ 0.09
+ −
+ + 0.630.29
+ 0.25
+ Galaxy properties inferred from NIRSpec data corrected for slit losses based on NIRCam 
+fluxes. aUncertainties refer only to the internal statistical errors of our model. Stellar mass is 
+sensitive to the assumptions on star-formation history28. bCorrected for gravitational lensing 
+amplification of μ = 1.17 (Methods).
+Nature | Vol 633 | 12 September 2024 | 321
+ (rUV
+ ) of 0.079 ± 0.006 arcsec and 260 ± 20 pc. This large size indicates 
+that the UV light of JADES-GS-z14-0 is produced mainly by a spatially 
+extended stellar population, excluding a dominant contribution by an 
+active galactic nucleus (AGN). This differs from other more compact 
+high-luminosity galaxies, in which some studies have suggested that 
+an unobscured AGN is dominating the UV light29,30.
+ The rest-frame UV emission of JADES-GS-z14-1 seems compact 
+and marginally resolved by the NIRCam point spread function. The 
+forward modelling of the light profile returns an upper limit on 
+rUV
+ < 160 pc, which agrees with the compact size determined for other 
+low-luminosity z > 10 galaxies3,7,31. For this galaxy, the morphological 
+analysis is not sufficient to exclude the presence of a luminous AGN, 
+but the inferred UV slope of −2.71 ± 0.19 suggests that the light is mainly 
+emitted by stars in the galaxy. The slope expected for the emission of an 
+AGN accretion disc is, on average, of the order of −2.3 or shallower32,33, 
+and there are no standard mechanisms that are able to reproduce a 
+steeper profile without invoking a strong contribution from the emis
+sion of a young (less than 50 Myr) stellar population21–23.
+ The best-fitting SED models presented in Table 1 indicate a modest 
+but non-zero amount of reddening by dust, with an AV
+ of 0.2–0.3 mag 
+for both galaxies. These results are in agreement with recent mod
+els proposed to explain the presence of luminous galaxies such as 
+JADES-GS-z14-0 and JADES-GS-z14-1 at early times34,35. Such models 
+expect that z > 10 galaxies have lower dust content in the interstellar 
+medium than equal-mass galaxies at lower redshifts, despite the rapid 
+(roughly 10 Myr) dust enrichment from supernovae36. Indeed, if our 
+massive z ≈ 14 galaxies had a stellar-to-dust ratio of about 0.002, similar 
+to those observed in z ≈ 6 galaxies37, the dust attenuation would be a 
+factor at least four times higher (AV
+ > 1 mag), due to their compact UV 
+size, than what is observed34. The moderate dust attenuation in our 
+galaxies can be explained by different scenarios: (1) a large amount of 
+dust distributed on large scales due to galactic outflows, reducing the 
+observed dust attenuation34,38; (2) a different dust composition39 and 
+so dust mass absorption coefficient and (3) a high destruction rate of 
+dust grains due to shock waves generated by supernovae explosions36. 
+Independently from the proposed scenarios, our observations indicate 
+that the properties of galaxies seem to change rapidly in only 600 Myr 
+(that is, from z = 14 to z = 6).
+ In conclusion, the presented spectroscopic observations of 
+JADES-GS-z14-0 and JADES-GS-z14-1 confirm that bright and massive 
+galaxies existed already only 300 Myr after the Big Bang, and their num
+ber density7 is more than ten times higher than extrapolations based on 
+pre-JWST observations40. The morphology and UV slope analysis help 
+rule out a significant AGN contribution for either galaxy. Other potential 
+explanations, such as dust content34, star-formation processes8,41 and 
+a top-heavy initial mass function42,43, must be investigated to explain 
+the excess of luminous galaxies in the early Universe.
+ In the context of future observations, we stress that JADES-GS-z14-0 
+is unexpectedly and remarkably luminous. The spectroscopic confir
+mation of this source indicates the existence of many similar galax
+ies, particularly when considering the relatively small survey area of 
+JADES. Galaxies such as this are sufficiently luminous for follow-up 
+observations with the Atacama Large Millimeter/Submillimeter Array 
+and MIRI, promising to open the view to the rest-frame optical and 
+far-infrared at Cosmic Dawn, the period during which the first galaxies  
+were born.–0.4–0.2 0 0.2 0.4
+ Δx (arcsec)–0.4–0.2
+ 0
+ 0.2
+ 0.4
+ Δy (arcsec)
+ a–0.4–0.2 0 0.2 0.4
+ Δx (arcsec)–0.4–0.2
+ 0
+ 0.2
+ 0.4
+ Δy (arcsec)
+ d
+ 0 0.1 0.2 0.3 0.4
+ Radius (arcsec)
+ 10–3
+ 10–2
+ 10–1
+ 100
+ Surface brightness norm.
+ 10–3
+ 10–2
+ 10–1
+ 100
+ Surface brightness norm.
+ b
+ 0 0.1 0.2 0.3 0.4
+ Radius (arcsec)
+ e
+ JADES-GS-z14-0
+ GNz11
+ GHZ2
+ Star
+ JADES-GS-z14-1
+ GNz11
+ GHZ2
+ Star
+ 10–3
+ 10–2
+ 10–1
+ 100
+ Surface brightness norm.
+ 10–3
+ 10–2
+ 10–1
+ 100
+ Surface brightness norm.
+ 0 0.25 0.50 0.75 1.00 1.25
+ Radius (kpc)
+ 0 0.25 0.50 0.75 1.00 1.25
+ Radius (kpc)
+ c
+ f
+ JADES-GS-z14-0
+ GNz11
+ GHZ2
+ JADES-GS-z14-1
+ GNz11
+ GHZ2
+ Fig. 3 | Galaxy size. a–f, The normalized (norm.) radial profiles of the observed 
+surface brightness at 2 μm of JADES-GS-z14-0 (a–c) and JADES-GS-z14-1 (d–f). 
+From left to right, the panels show the NIRCam images in the F200W filter (a,d), 
+the surface brightness profiles in arcsec units (b,e) and the surface brightness 
+profiles in kpc units (c,f). The circularized light profiles are extracted from the 
+rings marked with blue concentric circles in the NIRCam image, and the red 
+dashed region in the JADES-GS-z14-0 image marks the part that was masked to 
+remove the contamination of the neighbouring z = 3.475 galaxy. The comparison 
+with the radial profile of a star in the field of view (grey dashed curve), GN-z11 
+(ref. 46) (orange squares) and GHZ2 (ref. 16) (green diamonds) shows that 
+JADES-GS-z14-0 is significantly more extended than the most luminous galaxies 
+previously known at z > 10. The error bars in b, c, e and f show the 1σ uncertainties 
+of the surface brightness measurements.
+Article
+ Online content
+ Any methods, additional references, Nature Portfolio reporting summa
+ries, source data, extended data, supplementary information, acknowl
+edgements, peer review information; details of author contributions 
+and competing interests; and statements of data and code availability 
+are available at https://doi.org/10.1038/s41586-024-07860-9.
+ 1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+Curtis-Lake, E. et al. Spectroscopic confirmation of four metal-poor galaxies at z = 10.3–13.2. 
+Nat. Astron. 7, 622–632 (2023).
+ Wang, B. et al. UNCOVER: illuminating the early Universe-JWST/NIRSpec confirmation of 
+z > 12 galaxies. Astrophys. J. Lett. 957, L34 (2023).
+ Hainline, K. N. et al. Searching for emission lines at z > 11: the role of damped Lyman-α and 
+hints about the escape of ionizing photons. Preprint at https://arxiv.org/abs/2404.04325 
+(2024).
+ Finkelstein, S. L. et al. The complete CEERS early universe galaxy sample: a surprisingly 
+slow evolution of the space density of bright galaxies at z ∼ 8.5–14.5. Astrophys. J. Lett. 
+969, L2 (2024).
+ Harikane, Y. et al. A comprehensive study of galaxies at z ∼ 9–16 found in the early  
+JWST data: ultraviolet luminosity functions and cosmic star formation history at the pre- 
+reionization epoch. Astrophys. J. Suppl. Ser. 265, 5 (2023).
+ Casey, C. M. et al. COSMOS-Web: intrinsically luminous z ≳ 10 galaxy candidates test 
+early stellar mass assembly. Astrophys. J. 965, 98 (2024).
+ Robertson, B. et al. Earliest galaxies in the JADES Origins Field: luminosity function and 
+cosmic star-formation rate density 300 Myr after the Big Bang. Astrophys. J. 970, 31 (2024).
+ Donnan, C. T. et al. JWST PRIMER: a new multi-field determination of the evolving galaxy 
+UV luminosity function at redshifts z ≃ 9–15. Preprint at https://arxiv.org/abs/2403.03171 
+(2024).
+ Jakobsen, P. et al. The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space 
+Telescope. I. Overview of the instrument and its capabilities. Astron. Astrophys. 661, A80 
+(2022).
+ 10. Rieke, M. J. et al. JADES initial data release for the Hubble Ultra Deep Field: revealing the 
+faint infrared sky with deep JWST NIRCam imaging. Astrophys. J. Suppl. Ser. 269, 16 (2023).
+ 11. 
+Eisenstein, D. J. et al. Overview of the JWST Advanced Deep Extragalactic Survey (JADES). 
+Preprint at https://arxiv.org/abs/2306.02465 (2023).
+ 12. 
+Hainline, K. N. et al. The cosmos in its infancy: JADES galaxy candidates at z > 8 in GOODS-S 
+and GOODS-N. Astrophys. J. 964, 71 (2024).
+ 13. Williams, C. C. et al. The galaxies missed by Hubble and ALMA: the contribution of 
+extremely red galaxies to the cosmic census at 3 < z < 8. Astrophys. J. 968, 34 (2024).
+ 14. Ferruit, P. et al. The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space 
+Telescope. II. Multi-object spectroscopy (MOS). Astron. Astrophys. 661, A81 (2022).
+ 15. D’Eugenio, F. et al. JADES: carbon enrichment 350 Myr after the Big Bang in a gas-rich 
+galaxy. Preprint at https://arxiv.org/abs/2311.09908 (2023).
+ 16. Castellano, M. et al. JWST NIRSpec spectroscopy of the remarkable bright galaxy GHZ2/
+ GLASS-z12 at redshift 12.34. Preprint at https://arxiv.org/abs/2403.10238 (2024).
+ 17. 
+Zavala, J. A. et al. Detection of ionized hydrogen and oxygen from a very luminous and 
+young galaxy 13.4 billion years ago. Preprint at https://arxiv.org/abs/2403.10491 (2024).
+ 18. Oesch, P. A. et al. A remarkably luminous galaxy at z = 11.1 measured with Hubble Space 
+Telescope Grism spectroscopy. Astrophys. J. 819, 129 (2016).
+ 19. Bunker, A. J. et al. JADES NIRSpec initial data release for the Hubble Ultra Deep Field: 
+redshifts and line fluxes of distant galaxies from the deepest JWST cycle 1 NIRSpec 
+multi-object spectroscopy. Preprint at https://arxiv.org/abs/2306.02467 (2023).
+ 20. Maksimova, N. A. et al. ABACUSSUMMIT: a massive set of high-accuracy, high-resolution 
+N-body simulations. Mon. Not. R. Astron. Soc. 508, 4017–4037 (2021).
+ 21. 
+Tacchella, S. et al. On the stellar populations of galaxies at z = 9–11: the growth of metals 
+and stellar mass at early times. Astrophys. J. 927, 170 (2022).
+ 22. Cullen, F. et al. The ultraviolet continuum slopes of high-redshift galaxies: evidence for 
+the emergence of dust-free stellar populations at z > 10. Mon. Not. R. Astron. Soc. 531, 
+997–1020 (2024).
+ 23. Topping, M. W. et al. The UV continuum slopes of early star-forming galaxies in JADES. 
+Mon. Not. R. Astron. Soc. 529, 4087–4103 (2024).
+ 24. Robertson, B. E., Ellis, R. S., Dunlop, J. S., McLure, R. J. & Stark, D. P. Early star-forming 
+galaxies and the reionization of the Universe. Nature 468, 49–55 (2010).
+ 25. Bouwens, R. J. et al. Very blue UV-continuum slope β of low luminosity z ~ 7 galaxies from 
+WFC3/IR: evidence for extremely low metallicities? Astrophys. J. 708, L69–L73 (2010).
+ 26. Raiter, A., Schaerer, D. & Fosbury, R. A. E. Predicted UV properties of very metal-poor 
+starburst galaxies. Astron. Astrophys. 523, A64 (2010).
+ 27. Cameron, A. J. et al. Nebular dominated galaxies in the early Universe with top-heavy 
+stellar initial mass functions. Preprint at https://arxiv.org/abs/2311.02051 (2023).
+ 28. Helton, J. M. et al. JWST/MIRI photometric detection at 7.7 μm of the stellar continuum and 
+nebular emission in a galaxy at z > 14. Preprint at https://arxiv.org/abs/2405.18462 (2024).
+ 29. Maiolino, R. et al. A small and vigorous black hole in the early Universe. Nature 627, 59–63 
+(2024).
+ 30. Harikane, Y. et al. Pure spectroscopic constraints on UV luminosity functions and cosmic 
+star formation history from 25 galaxies at zspec
+ = 8.61–13.20 confirmed with JWST/NIRSpec. 
+Astrophys. J. 960, 56 (2024).
+ 31. Robertson, B. E. et al. Identification and properties of intense star-forming galaxies at 
+redshifts z > 10. Nat. Astron. 7, 611–621 (2023).
+ 32. Shakura, N. I. & Sunyaev, R. A. Black holes in binary systems. Observational appearance. 
+Astron. Astrophys. 24, 337–355 (1973).
+ 33. Cheng, H. et al. Modelling accretion disc emission with generalized temperature  
+profile and its effect on AGN spectral energy distribution. Mon. Not. R. Astron. Soc. 487, 
+3884–3903 (2019).
+ 34. Ferrara, A., Pallottini, A. & Dayal, P. On the stunning abundance of super-early, luminous 
+galaxies revealed by JWST. Mon. Not. R. Astron. Soc. 522, 3986–3991 (2023).
+ 35. Donnan, C. T. et al. The abundance of z ≳ 10 galaxy candidates in the HUDF using deep 
+JWST NIRCam medium-band imaging. Mon. Not. R. Astron. Soc. 520, 4554–4561 (2023).
+ 36. Schneider, R. & Maiolino, R. The formation and cosmic evolution of dust in the early 
+Universe: I. Dust sources. Astron. Astrophys. Rev. 32, 2 (2024).
+ 37. Witstok, J., Jones, G. C., Maiolino, R., Smit, R. & Schneider, R. An empirical study of dust 
+properties at the earliest epochs. Mon. Not. R. Astron. Soc. 523, 3119–3132 (2023).
+ 38. Ziparo, F., Ferrara, A., Sommovigo, L. & Kohandel, M. Blue monsters. Why are JWST 
+super-early, massive galaxies so blue? Mon. Not. R. Astron. Soc. 520, 2445–2450 (2023).
+ 39. Markov, V. et al. Dust attenuation evolution in z ∼ 2–12 JWST galaxies. Preprint at https://
+ arxiv.org/abs/2402.05996 (2024).
+ 40. Bouwens, R. J. et al. New determinations of the UV luminosity functions from z ∼ 9 to 2 
+show a remarkable consistency with halo growth and a constant star formation efficiency. 
+Astron. J. 162, 47 (2021).
+ 41. Dekel, A., Sarkar, K. C., Birnboim, Y., Mandelker, N. & Li, Z. Efficient formation of massive 
+galaxies at Cosmic Dawn by feedback-free starbursts. Mon. Not. R. Astron. Soc. 523, 
+3201–3218 (2023).
+ 42. Yung, L. Y. A. et al. Semi-analytic forecasts for Roman—the beginning of a new era of deep- 
+wide galaxy surveys. Mon. Not. R. Astron. Soc. 519, 1578–1600 (2023).
+ 43. Woodrum, C. et al. JADES: using NIRCam photometry to investigate the dependence of 
+stellar mass inferences on the IMF in the early Universe. Preprint at https://arxiv.org/abs/ 
+2310.18464 (2023).
+ 44. Bunker, A. J. et al. JADES NIRSpec spectroscopy of GN-z11: Lyman-α emission and possible 
+enhanced nitrogen abundance in a z = 10.60 luminous galaxy. Astron. Astrophys. 677, A88 
+(2023).
+ 45. D’Eugenio, F. et al. JADES Data Release 3—NIRSpec/MSA spectroscopy for 4,000 galaxies 
+in the GOODS fields. Preprint at https://arxiv.org/abs/2404.06531 (2024).
+ 46. Tacchella, S. et al. JADES Imaging of GN-z11: revealing the morphology and environment 
+of a luminous galaxy 430 Myr after the Big Bang. Astrophys. J. 952, 74 (2023).
+ Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+ Open Access This article is licensed under a Creative Commons Attribution 
+4.0 International License, which permits use, sharing, adaptation, distribution 
+and reproduction in any medium or format, as long as you give appropriate 
+credit to the original author(s) and the source, provide a link to the Creative Commons licence, 
+and indicate if changes were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your 
+intended use is not permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a copy of this licence, 
+visit http://creativecommons.org/licenses/by/4.0/.
+ © The Author(s) 2024
+ 322 | Nature | Vol 633 | 12 September 2024
+Methods
+ Cosmology model and definitions
+ Throughout this study, we adopt the standard lambda cold dark 
+matter cosmology model and assume the following cosmological 
+parameters: Hubble constant H0
+ = 70 km s−1 Mpc−1, matter density 
+parameter Ωm
+ = 0.3 and cosmological constant ΩΛ
+ = 0.7. One arcsec at 
+z = 14 corresponds to a physical scale of 3.268 kpc. All magnitudes are 
+presented in the AB magnitude system, and the term SFR10
+ refers to the 
+star-formation rate (SFR) averaged over the past 10 Myr. Equivalent 
+widths of emission lines are quoted in the rest frame. The absolute 
+UV magnitude is estimated at the rest-frame wavelength of 1,500 Å.
+ NIRSpec observations and data reductions
+ The NIRSpec data used in this work are part of the Guaranteed Time 
+Observations programme ID 1287. The micro-shutter array (MSA) 
+mask was designed with the eMPT software47 and proceeded using 
+the same method as described in refs. 19,45. The NIRSpec pointing 
+was optimized for six out of seven of the highest priority targets in 
+the catalogue, which include the galaxies analysed in this work. The 
+eMPT software guarantees that all galaxies are located within roughly 
+90 milliarcseconds (mas) from the centre of the shutter in the disper
+sion direction and within roughly 220 mas in the spatial direction. 
+We note that given the number of targets, not all highest priority gal
+axies are placed at the centre on the shutter where the slit loss effect  
+is minimal.
+ The observations were carried out between 10 and 12 January 2024. 
+Three consecutive visits were scheduled for the programme, but the 
+visit 2 was not performed because of a loss of lock on the guide star. 
+The two obtained visits, 1 and 3, differed in their pointing by less than 
+1 arcsec but they have the same position angle. The MSA configura
+tions were designed to place the highest priority targets in the same 
+position within the shutter in all visits. JADES-GS-z14-1 was observed 
+in both visits, whereas JADES-GS-z14-0 was observed only in the visit 
+1, as the visit 3 was set up to observe the nearby low-redshift galaxy to 
+exclude contamination.
+ The disperser–filter configurations used in the programme were 
+PRISM–CLEAR, G140M–F070LP, G235M–F170LP, G395M–F290LP 
+and G395H–F290LP. The first four spectral configurations provided 
+spectroscopic data with spectral resolving power of R = Δλ/λ ≈ 100 
+and R ≈ 1,000 in the wavelength range between 0.6 and 5.2 μm. The 
+G395H–F290LP disperser–filter configuration covered the wavelength 
+range 2.87–5.27 μm with a spectral resolving power of R ≈ 2,700.
+ For the PRISM–CLEAR configuration, four sequences of three nod
+ded exposures were used for each pointing, whereas one sequence of 
+three nodded exposures was used for the spectral configuration of the 
+gratings. Each nodded exposure sequence consisted of six integrations 
+of 19 groups in NRSIRS2 readout mode48, resulting in an exposure time 
+of 8,403.2 s. The total exposure times for each target are reported in 
+Extended Data Table 1.
+ We made use of the NIRSpec guaranteed time observations (GTO) 
+pipeline (S.C. et al., manuscript in preparation) to process the data. 
+The pipeline was developed by the European Space Agency NIRSpec 
+Science Operations Team and the NIRSpec GTO Team. A general over
+view of the data processing is reported in refs. 19,45. To optimize the 
+signal-to-noise ratio of the data, we used the 1D spectra extracted from 
+an aperture of 3 pixels, corresponding to 0.3 arcsec, located at the 
+target position in the 2D spectra.
+ The pipeline applies a wavelength-dependent slit-loss correction 
+to the measured flux, based on the position of the source inside the 
+micro-shutter and assuming a point-source geometry. To verify the 
+quality of this correction, we compare the pipeline-corrected fluxes to 
+the NIRCam photometric measurements. For JADES-GS-z14-0, which is 
+spatially extended, we used the NIRCam measurements derived with 
+ForcePho (section ‘Morphological analysis’). We found that roughly 
+30% (roughly 50%) of the total flux is lost at 2(5) μm in the NIRSpec data 
+(Extended Data Fig. 1). We used a first-order polynomial α1
+ + α0
+ λ to fit the 
+slit losses as a function of wavelength (λ) and found α0
+ = 0.18 ± 0.11 m−1 
+and α1
+ = 1.0 ± 0.2.
+ For JADES-GS-z14-1, the NIRCam fluxes inferred from an aperture 
+of 0.2 arcsec are consistent with the NIRSpec spectrum, indicating 
+that the slit-loss correction applied by the GTO pipeline is sufficient 
+to recover the total light of this compact source (Extended Data Fig. 1). 
+In this case, we estimated α0
+ = 0.001 ± 0.025 μm−1 and α1
+ = 0.98 ± 0.12.
+ Imaging data
+ Photometry for the candidate z ≈ 14 galaxies studied in this work was 
+taken from JWST–NIRCam imaging catalogues of JADES10, with supple
+mental imaging data from the First Reionization Epoch Spectroscopic 
+Complete Survey49 and JOF50 programmes. These data were reduced 
+together following the procedure outlined in ref. 11. The resulting mosa
+ics include both observations taken in late 2022 as well as additional 
+JADES observations taken in late 2023, and reach 5σ observational 
+depths of 2.4 nJy in F200W using a 0.2″ diameter aperture. We present 
+NIRCam thumbnails centred on JADES-GS-z14-0 and JADES-GS-z14-1 in 
+the top panels of Fig. 1.
+ The sources were initially selected from the modelling of the pho
+tometry presented in ref. 12. Two of the sources we explore, 
+JADES-GS-z14-1 (JADES-GS-53.07427-27.88592 in ref. 12), and the faint
+est galaxy described herein (JADES-GS-53.10763−27.86014) were part 
+of the primary sample of z > 8 galaxies in ref. 12, with photomet
+ric redshifts of z
+ phot
+ =14.36
+ −1.4
+ +0.82 and z
+ phot
+ =14.44
+ +0.97, respectively. 
+JADES-GS-z14-0 (JADES-GS-53.08294−27.85563) was presented in  
+ref. 12 (at z
+ −1.2
+ phot
+ =14.51
+ −0.28
+ +0.27 ) but initially rejected in that study due to  
+the morphology, brightness and the proximity of the source to the 
+neighbouring galaxy with photometric evidence of a Balmer break at 
+roughly 1.7 μm.
+ In October 2023, JADES-GS-z14-0 and JADES-GS-53.10763−27.86014 
+were also observed as part of the JOF programme50, which included a 
+NIRCam pointing of 104 h of total exposure spread between six 
+medium-band filters (F162M, F182M, F210M, F250M, F300M, F335M). 
+These filters were chosen to help refine high-redshift galaxy selection 
+in this ultra-deep region of the JADES footprint. NIRCam medium bands 
+can be used to trace the galaxy stellar continuum and aid in rejecting 
+sources at low redshift with strong emission lines that have similar 
+wide-filter colours to high-redshift galaxies51–53. In ref. 7, the authors 
+used JOF photometry to select a sample of nine candidate galaxies at 
+z = 11.5 − 15, including JADES-GS-z14-0. The additional medium-band 
+observations for this source had a best-fit photometric redshift of 
+z
+ phot
+ =14.39
+ −0.09
+ +0.23, and fits at z < 7 were effectively ruled out because of 
+the lack of flux observed shortward of the Lyman-α break, the strength 
+of the break indicated by the F182M–F210M colour and the F250M flux 
+tracing the UV continuum. The authors also estimated a UV slope of 
+−2.40 ± 0.12 and a size of 260 ± 6 pc, which are consistent with those 
+inferred in this study. Robertson et al.7 also presented the evolution of 
+the UV luminosity function and cosmic SFR density at z > 14 inferred 
+from observations of JADES-GS-z14-0, and we refer the reader there 
+for more details.
+ For this analysis, we fit JADES-GS-z14-0 using ForcePho (B.D.J.o et al., 
+manuscript in preparation) to properly disentangle the flux of this 
+source from the neighbour (Extended Data Table 2). For JADES-GS-z14-1, 
+as this source was isolated and much more compact, we extracted 
+fluxes using aperture photometry with an 0.2″ aperture (Extended Data 
+Table 2), and applied an aperture correction assuming a point source. 
+In a companion paper28, our team presents JWST–MIRI photometry of 
+JADES-GS-z14-0 from ultra-deep 43 h F770W imaging from programme 
+ID 1180. This measures F770W to be 74 ± 5 nJy, mildly above the 3–5 μm 
+photometry of roughly 47 nJy, probably due to the presence of strong 
+emission lines in F770W. Helton et al.28 also discuss the implications of 
+this rest-optical finding.
+Article
+ We have also verified that the magnification provided by the fore
+The third candidate JADES-GS-53.10763−27.86014
+ phot
+ The candidate z ≈ 14 galaxy JADES-GS-53.10763-27.86014 identified by 
+Hainline et al.12 and Robertson et al.7. The NIRCam images show a clear 
+dropout in bluer filters, yielding a photometric redshift of 
+z
+ =14.63
+ −0.75
+ +0.06 (ref. 7). The target was observed in visits 1 and 3 of the 
+NIRSpec programme by using the same shutter position in both visits. 
+Extended Data Fig. 2 illustrates the 1D and 2D spectra of the galaxy. 
+Only a faint continuum emission is barely detected in the NIRSpec 
+spectrum with a significance level less than 1σ. The signal is not suffi
+cient to confirm or rule out the photometric redshift determined by 
+NIRCam images. We believe that the NIRSpec slit losses contribute to 
+the low signal-to-noise ratio of the data. The target is located at the 
+edge of the shutter and, despite its compact size, we expect that about 
+20% of the light is lost at 2 μm and 35% at 5 μm. The slit losses are two 
+times higher than those of JADES-GS-z14-1, which is also 1.6 times more 
+luminous than JADES-GS-53.10763−27.86014. In conclusion, the low 
+sensitivity of these observations does not allow us to confirm or rule 
+out the photometric redshift for this target.
+ The low-redshift galaxy close to JADES-GS-z14-0
+ The identification of the neighbouring galaxy with NIRCam ID 183349 
+at 0.4 arcsec from JADES-GS-z14-0 initially raised several doubts about 
+the photometric redshift of the high-redshift target as the potential 
+Lyman-α break for this object could be a Balmer break if these two 
+sources are associated at similar redshifts. Therefore, we dedicated 
+the visit 3 of the NIRSpec programme 1287 to observe the neighbour
+ing galaxy and assess any possible contamination and constrain the 
+gravitational lensing effect. Extended Data Fig. 3 shows the spectrum 
+of the target 183349. The doublet [OIII]λλ4959,5007 and Hα emission 
+lines are detected with a high level of significance in both prism and 
+grating spectra, yielding a secure spectroscopic redshift of z = 3.475 
+(in agreement with the photometric redshift zphot
+ = 3.4 ± 0.2 from  
+ref. 12). The spectrum also reveals a clear Balmer break feature at 
+roughly 1.6 μm. Therefore, we can rule out the drop at roughly 1.9 μm 
+observed in JADES-GS-z14-0 being due to the contamination of the 
+neighbouring galaxy. Finally, 183349 has no bright emission lines at 
+observed wavelengths at 2.89 μm, where we detect tentative CIII] emis
+sion in JADES-GS-z14-0. We can thus rule out that the tentative CIII] is 
+due to contamination from 183349.
+ As the foreground galaxy might contaminate the spectrum of the 
+JADES-GS-z14-0, we analyse the surface brightness profile of the two 
+galaxies. Extended Data Fig. 4 shows the light profiles from the F150W 
+and F200W NIRCam images extracted from a slit-oriented east to 
+west and as large as 0.15 arcsec so that the slit includes both galaxies. 
+JADES-GS-z14-0 is absent in the F150W NIRCam image, and thus, we used 
+the F150W profile to quantify the contamination. Before the extrac
+tion, F150W NIRCam was smoothed to the same angular resolution of 
+F200W data. Extended Data Fig. 4 reports the light profiles in the two 
+filters normalized to the peak at the location of the foreground source 
+(that is, roughly 0.4 arcsec from the JADES-GS-z14-0). Assuming that 
+the surface brightness profile of the foreground galaxy in the F200W 
+image is similar to that at F150W wavelengths, we estimated a con
+tamination of less than 10% at the location of JADES-GS-z14-0. The last 
+panel of Extended Data Fig. 4 indeed illustrates the ratio between the 
+light profile in F200W filter and that in F150W from −0.2 arcsec (that is, 
+−0.6255 kpc) to 0 arcsec with respect to the centre of JADES-GS-z14-0. 
+This spatial range corresponds to the region in which the light of the 
+two galaxies might overlap. The contamination is of the order of 70% 
+at 650 pc from the centre of JADES-GS-z14-0 and drops rapidly to less 
+than 20% at 350 pc from the galaxy. As the top-left edge of the NIRSpec 
+shutter is located at −0.08 arcsec from the centre of JADES-GS-z14-0, we 
+concluded that the contamination of the light of the foreground galaxy 
+is negligible in the NIRSpec spectrum. Therefore, the contamination of 
+the low-z galaxy on the NIRSpec spectrum is lower than 10%.
+ ground galaxies to JADES-GS-z14-0 is limited (μ < 1.2). We use the soft
+ware lenstool54 to construct lens model of ID 183349 and another galaxy, 
+JADES-GS-53.08324-27.85619 (ID 182698; zphot
+ ≈ 2.04) that is 2.2 arcsec 
+from JADES-GS-z14-0. On the basis of Hubble Space Telescope/ACS and 
+JWST–NIRCam SED, we infer stellar mass 
+M M
+ log( / )=8.7±0.1
+ star
+ ⊙
+ and 
+9.7 ± 0.1 for ID 183349 and 182698, respectively. We then derived inte
+grated velocity dispersions of 53 and 100 km s−1 assuming the 
+stellar-mass Tully–Fisher relation measured at z ≈ 2.3 (ref. 55). Assum
+ing a singular isothermal spherical distribution of matter in these two 
+foreground potentials, we derive a modest lensing magnification fac
+tor of μ = 1.17 at the location of JADES-GS-z14-0. Such a magnification 
+factor is corrected for when we derived the physical properties: that 
+is, luminosities and masses.
+ Redshift determination
+ a
+ +0.23 (ref. 7) and z
+ The photometric redshifts of JADES-GS-z14-0 and JADES-GS-z14-1 are 
+z =14.39
+ −0.09
+ phot
+ =14.36
+ −1.4
+ +0.82 (ref. 12), respectively. The 
+strong Lyman breaks (flux ratio between 1.90–2.1 and 1.5–1.8 μm higher 
+than 9) observed by NIRSpec in both JADES-GS-z14-0 and JADES-GS-z14-1 
+confirm both galaxies to be at a redshift of about 14.
+ Recent studies have shown that the profile of the Lyα spectral break 
+does not depend only on intergalactic medium absorption but can 
+also be modulated by: (1) neutral gas in the galaxy or in the surround
+ing medium15,56,57; (2) the presence of a local ionized bubble58,59;  
+(3) Lyα line emission that would enhance the flux of spectral channels 
+containing the line in the low-resolution data60. Therefore, to deter
+mine the spectroscopic redshift, we model the continuum emission 
+with a power-law function ( f λ
+ λ
+ ∝
+ β), which reproduces well the 
+rest-frame UV continuum emission in galaxies with young stellar 
+populations21–23,61, and absorption of neutral hydrogen following the 
+prescriptions discussed in refs. 59 and 3. The intergalactic medium 
+transmission is modelled following Mason and Gronke62 and depends 
+on two free parameters: the global neutral gas fraction (xHI
+ ) and the 
+ionized bubble size (Rion
+ ). We assumed a flat prior for the neutral gas 
+fraction over the range x ∈[0.95,1]
+ HI
+ and a flat prior distribution for 
+the ionized bubble size over the range R ∈[0.1,1]
+ ion
+ proper Mpc. These 
+are the expected values for a typical galaxy with a MUV
+ ≈ −20 at z = 14 
+(ref. 63). As the Lyman-α drop profile can also be caused by dense 
+neutral gas in the circumgalactic medium and located along the line 
+of sight (that is, damped Lyman-α absorption) following refs. 15 
+and 3, we parametrized this additional absorption by the column 
+density of neutral hydrogen, 
+N
+ log( /
+ HI
+ N
+ log( /
+ −2
+ HI
+ cm )∈[10,28]
+ cm )
+ −2 , and assumed a flat prior 
+. Finally, recent studies60,64 have also shown 
+that the Lyα emission line can modify the prism spectra and so alter 
+the redshift measurement. Therefore, we added a mock spectroscop
+ically unresolved emission line in our model to represent the Lyα 
+emission. The line model was parametrized by the rest-frame equiv
+alent width (
+ EW
+ log( /
+ 0
+ Å) ∈[−2,2]
+ ) and velocity shift with respect to 
+systemic (Δv∈[0, 3,000]km s−1). This latter mimics the effects of 
+outflows and resonant scattering on Lyα line emission65.
+ Extended Data Fig. 5 shows the posterior distributions of the free 
+parameters used to fit the data of JADES-GS-z14-0 and JADES-GS-z14-1. 
+The posteriors of the parameters xHI
+ , Rion
+ and Δv are flat for both galax
+ies and are not reported in the corner plot. The best-fit redshifts are 
+14.32−0.20
+ +0.08 and 13.90 ± 0.17, respectively, for the two targets. The profile 
+of the posterior distributions of 
+N
+ log( /
+ HI
+ cm )
+ of dense damped Lyman-α absorption with 
+−2 exclude the presence 
+N
+ log( /
+ −2
+ , but 
+does not preclude less dense absorbing systems along the line of sight. 
+HI
+ cm )>23.64
+ The results also indicate that the rest-frame equivalent width of the 
+Lyman-α line is lower than 10 Å.
+ Emission lines
+ We inspected the prism and grating 1D and 2D spectra to identify any 
+rest-frame ultraviolet (UV) emission lines above the level of the noise in 
+both targets. We estimated emission line fluxes and equivalent widths 
+SED fitting
+ from the continuum-subtracted spectra over five spectral channels 
+(Extended Data Table 3). The uncertainties on line fluxes and equivalent 
+width were determined by repeating the measurements on a sample 
+of 2,000 spectra obtained by combining the spectra of the individual 
+integrations with a bootstrap resampling technique.
+ Given the uncertainties on the redshift based only on the Lyman 
+break, we estimated the statistical significance of a set of emission 
+lines (Extended Data Table 3) at different redshifts (Extended Data 
+Figs. 6 and 7). In particular, we inferred the one-sided P value for each 
+line at different redshifts. We then determined the combined P value 
+of the set of lines by using Fisher’s method and used it to quantify the 
+statistical significance of the spectroscopic redshifts (details in ref. 3).
+ In the prism spectrum for JADES-GS-z14-0, we identified only a 
+potential CIII](λλ1907,1909) emission line at z = 14.178 with a level of 
+significance of 3.6σ and the combined P value for the inferred red
+shift is 0.00720. The redshift is consistent within the error with that 
+determined from the fitting of the Lyman-break profile, but follow-up 
+observations will be required to confirm the emission line. We note 
+that the presence of only carbon line in the rest-frame UV spectrum is 
+consistent with other low-redshift studies concluding that CIII] might 
+be the strongest rest-UV line after the Lyα line66–69.
+ Both the upper limits on the emission lines and the tentative detec
+tion of CIII] in JADES-GS-z14-0, with a rest-frame equivalent width of 
+EW0
+ = 8.0 ± 2.3 Å (Extended Data Table 3), are consistent with those 
+observed in lower-luminosity galaxies at z > 10 (ref. 1,3). On the other 
+hand, if we compare JADES-GS-z14-0 with the most luminous galaxies 
+at z > 10, such as GN-z11 (ref. 44) and GHZ2 (ref. 16), we would expect 
+to detect both CIII] and CIVλλ1548,1551 in the prism spectra of our 
+galaxies. This spectral difference may be due to an extremely low metal
+licity (Z
+ Z
+ <0.05 ⊙) or a large escape fraction of ionizing photons that 
+reduces the emission by the gas in the interstellar medium1,3 or a dif
+ferent nature of the dominant ionizing flux29.
+ In the grating, we did not find any lines, and the 3σ upper limits, 
+which were estimated by using the bootstrap resampling technique, 
+are reported in Extended Data Table 3.
+ In both the prism and grating of JADES-GS-z14-1 we did not find any 
+clear emission line feature with a level of significance higher than 3σ. 
+We identified only the potential lines of CIII]λ1909 and MgIIλ2795 at 
+z = 14.063 with a signal-to-noise ratio of about 2. The combined P value 
+for this redshift is 0.01249, suggesting that this solution is not statisti
+cally significant. We thus derived the upper limits on the emission lines 
+and equivalent widths from both prism and grating spectra (Extended 
+Data Table 3). The prism spectra also reveal an absorption feature at 
+2 μm but its significance is only 2σ. If it will be confirmed in future obser
+vations, it corresponds to CIIλ1335 doublet absorption line.
+ Possible large-scale structure association
+ JADES-GS-z14-0 and JADES-GS-z14-1 are 1.9′ apart on the sky (Extended 
+Data Fig. 8), which is 6.2 comoving Mpc at this redshift. The third can
+didate completes a roughly equilateral triangle, 1.7′ and 2.7′ away from 
+the first two, respectively. These three galaxies form a mild angular 
+over-abundance of the candidates from ref. 12, a fact that influenced 
+the selection of this location for the programme 1287 deep NIRSpec 
+pointing. The separation along the line of sight is imprecisely known, 
+given the redshift uncertainties. If JADES-GS-z14-0 and JADES-GS-z14-1 
+are separated by 0.42 in redshift, then this would be about 60 comoving 
+Mpc along the line of sight. However, the galaxies could be substantially 
+closer, even potentially at the same redshift, if more unusual combina
+tions of neutral hydrogen absorption and Lyα emission were present. 
+Narrow-line redshifts will be needed to measure this. As galaxies at 
+high redshift are expected to show a high clustering bias70,71, supported 
+by numerous findings of inhomogeneity at z ≈ 7 (refs. 72,73), it seems 
+likely that these galaxies are at least mildly associated in an extended 
+large-scale structure.
+ We fit JADES-GS-z14-0 (Extended Data Fig. 9) and JADES-GS-z14-1 
+(Extended Data Fig. 10) following a similar approach to that of  
+Hainline et al.3 and Curtis-Lake et al.1. In summary, we use the BEA
+GLE tool (Bayesian analysis of galaxy SEDs)74 to fit the combined R100 
+NIRSpec spectra and NIRCam + MIRI photometry. We fit the entire 
+spectrum uncorrected for slit losses and mask the rest-frame region 
+1,150–1,450 Å to avoid biases arising from the Lyα damping wing, which 
+we do not model in BEAGLE. We fit the NIRCam wide-bands F090W, 
+F115W, F150W, F200W, F277W, F356W, F444W and the MIRI F770W band, 
+using the values and errors reported in Extended Data Table 2. We adopt 
+Gaussian priors for the redshift of the sources, centred on z = 14.32 
+and with σz
+ = 0.2 for JADES-GS-z14-0, and centred on z = 13.9 and with 
+σz
+ = 0.17 for JADES-GS-z14-1. To account for the wavelength-dependent 
+slit losses of NIRSpec, which are especially important for the extended 
+object JADES-GS-z14-0, we include in the fitting a second-order poly
+nomial, which is applied to the model spectrum before comparing it 
+with the observed one. This enables the model to reproduce consist
+ently the NIRCam + MIRI photometry and uncorrected NIRSpec spec
+trum. The inset in Extended Data Fig. 9, and in particular the difference 
+between the grey (model before the polynomial correction) and blue 
+lines (model with the applied correction), shows the importance of this 
+correction for JADES-GS-z14-0. We do not use the first-order polynomial 
+correction estimated in the section ‘NIRSpec observations and data 
+reductions’ because we want to take into account the uncertainties 
+associated with slit losses correction directly in the Bayesian SED fitting.
+ As in ref. 3, we use an updated version of the Bruzual and Charlot75 
+stellar population synthesis models (see ref. 76 for details), along with 
+the photoionization models of Gutkin et al.77. We assume a Chabrier78 
+initial mass function with lower and upper mass limits of 0.1 M⊙
+ and 
+300 M⊙
+ , respectively. We fit three different models, in which we vary 
+assumptions on the star-formation history and escape fraction of ion
+izing photons. Similar to ref. 3, we find that the blue UV slopes of our 
+objects and the absence of (securely) detected emission lines, can be 
+explained by (1) a SFR that suddenly drops to very low values during 
+the last 10 Myr of star formation, but with most stars being a few tens 
+of million years old, as they can produce blue UV slopes. This scenario 
+indicates an unlikely fine-tuning of the star-formation history of these 
+galaxies. (2) A metal-enriched gas (near-to-Solar metallicity), as such 
+a large metallicity would also suppress the high-ionization UV lines 
+(but also produce redder UV slopes). (3) A large escape fraction of 
+ionizing photons. This last model is our fiducial one, because, as we 
+extensively discussed in ref. 3, it is the only model that can simultane
+ously reproduce the observed blue UV slopes and the absence of UV 
+emission lines.
+ Our fiducial model is thus described by seven adjustable parameters: 
+the total stellar mass formed Mtot
+ , age of the oldest stars t, stellar metal
+licity Z * , gas ionization parameter logUs
+ , V-band dust attenuation opti
+cal depth τˆV (that is, AV
+ /1.086), escape fraction of ionizing photons fesc
+ 
+and redshift z. We assume the ref. 79 two-component dust attenuation 
+model, fixing the fraction of attenuation arising from stellar birth 
+clouds to μ = 0.4. We further fix the metal’s depletion factor to ξ =0.1. 
+Note that in our model the stellar metallicity Z * and interstellar metal
+licity Zism
+ are equal, whereas the gas abundance of a metal further 
+depends on the metal depletion.
+ From BEAGLE-based SED modelling we find that the JADES-GS-z14-0, 
+once corrected for the gravitational lensing amplification, has a  
+stellar mass of 
+log ( / )=8.6
+ 10
+ last 10 Myr, of 
+M M
+ star
+ ⊙
+ SFR =19±6 y
+ 10
+ Z Z
+ M
+ r
+ −0.2
+ +0.7 and a SFR, averaged over the 
+−1
+ ⊙ , resulting in a specific SFR (sSFR) of 
+sSFR = SFR/Mstar
+ = 45 Gyr−1. We estimate a gas-phase metallicity  
+of 
+log( / )=−1.5−0.4
+ ⊙
+ +0.7 and a dust attenuation of AV
+ ≈ 0.3 mag assum
+ing a standard nebular continuum powered by OB stars. JADES- 
+GS-z14-1 is less massive, with 
+log ( / )=8.0
+ 10
+ SFR =2.0
+ +0.7
+ 10
+ −0.4
+ M
+ yr
+ −1
+ M M
+ star
+ ⊙
+ −0.3
+ +0.4 and a SFR of 
+⊙ . We infer a sSFR of about 18 Gyr−1. For this galaxy, 
+Article
+ we estimate a metallicity of 
+Z Z
+ log( / )=−1.1−0.6
+ ⊙
+ +0.6 and a dust attenua
+tion of AV
+ ≈ 0.2 mag. We remind that the errors quoted here refer only 
+to the internal statistical errors of our model with the above assump
+tions. Notably, the inference of stellar mass is known to be sensitive to 
+assumptions, with variations of about 0.2 dex depending on the SED 
+fitting code and star-formation histories allowed in the model28. More 
+exotic deviations in astrophysics, such as variations in the stellar initial 
+mass function80, could create further differences.
+ Morphological analysis
+ To determine the extension of JADES-GS-z14-0 and JADES-GS-z14-1, 
+we initially extracted the radial surface brightness profile from the 
+NIRCam F200W images, which are a compromise between signal to 
+noise and angular resolution for these galaxies.
+ We have determined the average surface brightness from concentric 
+radial annuli centred at the position of the target and radius width of 
+0.03″. For JADES-GS-z14-0 we have masked the image at right ascen
+sion coordinate greater than 5.30829890° (that is, 0.1″ from the galaxy 
+centre) to remove the contamination from the foreground source. 
+Figure 3 shows the normalized surface brightness profile for both tar
+gets. The emission of JADES-GS-z14-0 is more extended than the light 
+profile of the star (that is, point-like source) observed in the NIRCam 
+field. JADES-GS-z14-0 is also more extended than the surface bright
+ness profile of GN-z11 (ref. 46) and GHZ2 (ref. 16). On the other hand, 
+JADES-GS-z14-1 seems more compact and consistent with a point-like 
+source.
+ We have also modelled the morphology of the galaxies with ForcePho, 
+which enables us to fit the light distribution of individual exposures 
+across all filters simultaneously while taking into account the substan
+tial change in the NIRCam point spread function with wavelength. In 
+this case we do not need to apply any mask in the NIRCadm image as 
+ForcePho models simultaneously the target and the neighbouring 
+galaxies returning the morphological and photometric parameters 
+for all sources in the field.
+ In the F162M image, JADES-GS-z14-0 is near to the edge of or 
+entirely missed by several of the individual exposures from the 3215 
+programme50. By modelling the individual exposures simultaneously 
+ForcePho avoids the correlated noise caused by mosaicing, which can 
+be particularly difficult to quantify when the source is near a large 
+gradient in exposure time such as JADES-GS-z14-0. We have adopted 
+a single Sérsic profile for the z ≈ 14 galaxies and for the foreground 
+sources within 5 arcsec from the targets. ForcePho fits these profiles 
+simultaneously and with full posterior sampling, allowing us to meas
+ure the uncertainties in the profile and the covariance of the fluxes 
+between sources that seem blended, such as JADES-GS-z14-0 and its 
+low-redshift neighbour.
+ Data, residuals and the model are shown in Extended Data Fig. 11. A 
+single component is sufficient to match the data of both JADES-GS-z14-0 
+and JADES-GS-z14-1. In both cases, the surface brightness profile is 
+consistent with an Sérsic profile with an index of around one. For the 
+brightest of the two galaxies, we have determined a deconvolved 
+half-light radius of 260 pc, whereas the compact size of JADES-GS-z14-1 
+has returned just an upper limit of 160 pc.
+ Dust enrichment
+ M
+ d
+ 4
+ Following ref. 34 and assuming the prescription of ref. 81 for the dust 
+attenuation law, AV
+ could be used as a proxy for the dust mass: 
+⊙
+ ≈2.2×10 ( /100pc)
+ 2
+ A r M
+ V d
+ , where rd
+ is the radius over which the 
+interstellar medium dust is assumed to extend. However, we stress 
+that the AV
+ parameter is not an accurate measure of the actual amount 
+of dust as this parameter is simply estimated from the spectral fitting 
+assuming an dust attenuation law. Assuming that the spatial extension 
+of the dust is as large as the size of the galaxy (that is, rd
+ = rUV
+ ), we derived 
+a dust mass 
+M
+ d
+ =5×10
+ 4
+ M
+ ⊙
+ and 
+M
+ <0.5×10
+ 4
+ M
+ ⊙
+ for the two galaxies, 
+d
+ respectively. Comparing these masses with the stellar masses, we find 
+a dust-to-stellar mass fraction of less than 10−4 for both galaxies 
+(Extended Data Fig. 12), which is a factor greater than ten lower than 
+those inferred in galaxies at z≈6–7(10
+−2
+ 10 )
+ −3 (refs. 37,82,83) and  
+that predicted by supernova models without reverse shock36,84. 
+Extended Data Fig. 12 shows the timescales to reach the asymptotic 
+dust-to-stellar mass ratio due to various dust enrichment processes 
+and assuming that galaxies formed at z = 20 from a single star-formation 
+burst (review by Schneider and Maiolino36). In the first few million 
+years, the dust is dominated by supernovae, and in less than 5 Myr, the 
+galaxy has already reached a dust-to-stellar mass ratio of around 
+1/1,000. Even assuming a different realistic star-formation history, 
+the dust-to-stellar mass reaches the asymptotic values of less than 
+10 Myr. Reverse shocks created by the interaction between the expand
+ing supernova blast wave and the interstellar medium can limit the 
+effective dust enrichment by supernovae85–88, as indicated by the 
+orange shaded region in Extended Data Fig. 12. However, the efficiency 
+of dust destruction due to reverse shocks is still debated, and  
+different models predict different survival rates36.
+ Data availability
+ The NIRCam data that support the findings of this study are publicly 
+available at https://archive.stsci.edu/hlsp/jades. The reduced spectra 
+that support the findings of this study are publicly available at Zenodo 
+(https://doi.org/10.5281/zenodo.12578542) (ref. 89).
+ Code availability
+ The AstroPy90,91 software suite is publicly available, as ForcePho. BEAGLE 
+is available by means of a Docker image upon request at http://www.
+ iap.fr/beagle/.
+ 47. Bonaventura, N., Jakobsen, P., Ferruit, P., Arribas, S. & Giardino, G. The Near-Infrared 
+Spectrograph (NIRSpec) on the James Webb Space Telescope. V. Optimal algorithms for 
+planning multi-object spectroscopic observations. Astron. Astrophys. 672, A40 (2023).
+ 48. Rauscher, B. J. et al. in High Energy, Optical, and Infrared Detectors for Astronomy V 
+Vol. 8453 (eds Holland, A. D. & Beletic, J. W.) 84531F (SPIE, 2012).
+ 49. Oesch, P. A. et al. The JWST FRESCO survey: legacy NIRCam/Grism spectroscopy and 
+imaging in the two GOODS fields. Mon. Not. R. Astron. Soc. 525, 2864–2874 (2023).
+ 50. Eisenstein, D. J. et al. The JADES Origins Field: a new JWST deep field in the JADES second 
+NIRCam data release. Preprint at https://arxiv.org/abs/2310.12340 (2023).
+ 51. Naidu, R. P. et al. Two remarkably luminous galaxy candidates at z ≈ 10–12 revealed by 
+JWST. Astrophys. J. Lett. 940, L14 (2022).
+ 52. Zavala, J. A. et al. Dusty starbursts masquerading as ultra-high redshift galaxies in JWST 
+CEERS observations. Astrophys. J. Lett. 943, L9 (2023).
+ 53. Arrabal Haro, P. et al. Confirmation and refutation of very luminous galaxies in the early 
+Universe. Nature 622, 707–711 (2023).
+ 54. Jullo, E. et al. A Bayesian approach to strong lensing modelling of galaxy clusters. New J. 
+Phys. 9, 447 (2007).
+ 55. Übler, H. et al. The evolution of the Tully–Fisher relation between z ~ 2.3 and z ~ 0.9 with 
+KMOS3D. Astrophys. J. 842, 121 (2017).
+ 56. Heintz, K. E. et al. Strong damped Lyman-α absorption in young star-forming galaxies at 
+redshifts 9 to 11. Science 384, 890–894 (2024).
+ 57. Heintz, K. E. et al. The JWST-PRIMAL Legacy Survey. A JWST/NIRSpec reference sample 
+for the physical properties and Lyman-α absorption and emission of ∼500 galaxies at 
+z = 5.5–13.4. Preprint at https://arxiv.org/abs/2404.02211 (2024).
+ 58. Saxena, A. et al. JADES: discovery of extremely high equivalent width Lyman-α emission 
+from a faint galaxy within an ionized bubble at z = 7.3. Astron. Astrophys. 678, A68 (2023).
+ 59. Witstok, J. et al. Inside the bubble: exploring the environments of reionisation-era 
+Lyman-α emitting galaxies with JADES and FRESCO. Astron. Astrophys. 682, A40 (2024).
+ 60. Keating, L. C. et al. JWST observations of galaxy damping wings during reionization 
+interpreted with cosmological simulations. Mon. Not. R. Astron. Soc. 532, 1646–1658 
+(2024).
+ 61. Schaerer, D. & Pelló, R. Stellar populations and Lyα emission in two lensed z > ~6 galaxies. 
+Mon. Not. R. Astron. Soc. 362, 1054–1064 (2005).
+ 62. Mason, C. A. & Gronke, M. Measuring the properties of reionized bubbles with resolved 
+Lyα spectra. Mon. Not. R. Astron. Soc. 499, 1395–1405 (2020).
+ 63. Neyer, M. et al. The THESAN project: connecting ionized bubble sizes to their local 
+environments during the Epoch of Reionization. Mon. Not. R. Astron. Soc. 531, 2943–2957 
+(2024).
+ 64. Jones, G. C. et al. JADES: the emergence and evolution of Lyα emission and constraints 
+on the intergalactic medium neutral fraction. Astron. Astrophys. 683, A238 (2024).
+ 65. Orsi, A., Lacey, C. G. & Baugh, C. M. Can galactic outflows explain the properties of Ly α 
+emitters? Mon. Not. R. Astron. Soc. 425, 87–115 (2012).
+ 66. Shapley, A. E., Steidel, C. C., Pettini, M. & Adelberger, K. L. Rest-frame ultraviolet spectra 
+of z ~ 3 Lyman break galaxies. Astrophys. J. 588, 65–89 (2003).
+67. Stark, D. P. et al. Spectroscopic detections of C III]λ1909 Å at z = 6–7: a new probe of early 
+star-forming galaxies and cosmic reionization. Mon. Not. R. Astron. Soc. 450, 1846–1855 
+(2015).
+ 68. Feltre, A. et al. The MUSE Hubble Ultra Deep Field Survey. XV. The mean rest-UV spectra 
+of Lyα emitters at z > 3. Astron. Astrophys. 641, A118 (2020).
+ 69. Topping, M. W. et al. The detection of ionized carbon emission at z 8. Astrophys. J. Lett. 
+917, L36 (2021).
+ 70. Zhang, H., Eisenstein, D. J., Garrison, L. H. & Ferrer, D. W. Testing the detection 
+significance on the large-scale structure by a JWST deep field survey. Astrophys. J. 875, 
+132 (2019).
+ 71. 
+Endsley, R. et al. Clustering with JWST: constraining galaxy host halo masses, satellite 
+quenching efficiencies, and merger rates at z = 4–10. Mon. Not. R. Astron. Soc. 493,  
+1178–1196 (2020).
+ 72. Higuchi, R. et al. SILVERRUSH. VII. Subaru/HSC identifications of protocluster candidates 
+at z ~ 6–7: implications for cosmic reionization. Astrophys. J. 879, 28 (2019).
+ 73. Helton, J. M. et al. Identification of high-redshift galaxy overdensities in GOODS-N and 
+GOODS-S. Preprint at https://arxiv.org/abs/2311.04270 (2023).
+ 74. Chevallard, J. & Charlot, S. Modelling and interpreting spectral energy distributions of 
+galaxies with BEAGLE. Mon. Not. R. Astron. Soc. 462, 1415–1443 (2016).
+ 75. Bruzual, G. & Charlot, S. Stellar population synthesis at the resolution of 2003. Mon. Not. 
+R. Astron. Soc. 344, 1000–1028 (2003).
+ 76. Vidal-Garcıa, A., Charlot, S., Bruzual, G. & Hubeny, I. Modelling ultraviolet-line diagnostics 
+of stars, the ionized and the neutral interstellar medium in star-forming galaxies. Mon. 
+Not. R. Astron. Soc. 470, 3532–3556 (2017).
+ 77. Gutkin, J., Charlot, S. & Bruzual, G. Modelling the nebular emission from primeval to 
+present-day star-forming galaxies. Mon. Not. R. Astron. Soc. 462, 1757–1774 (2016).
+ 78. Chabrier, G. Galactic stellar and substellar initial mass function. Publ. Astron. Soc. Pac. 
+115, 763–795 (2003).
+ 79. Charlot, S. & Fall, S. M. A simple model for the absorption of starlight by dust in galaxies. 
+Astrophys. J. 539, 718–731 (2000).
+ 80. Wang, B. et al. Quantifying the effects of known unknowns on inferred high-redshift 
+galaxy properties: burstiness, IMF, and nebular physics. Astrophys. J. 963, 74 (2024).
+ 81. Calzetti, D. et al. The dust content and opacity of actively star-forming galaxies. 
+Astrophys. J. 533, 682–695 (2000).
+ 82. Witstok, J. et al. Carbonaceous dust grains seen in the first billion years of cosmic time. 
+Nature 621, 267–270 (2023).
+ 83. Valentino, F. et al. The cold interstellar medium of a normal sub-L* galaxy at the end of 
+reionization. Astron. Astrophys. 685, A138 (2024).
+ 84. Todini, P. & Ferrara, A. Dust formation in primordial type II supernovae. Mon. Not. R. 
+Astron. Soc. 325, 726–736 (2001).
+ 85. Bocchio, M. et al. Dust grains from the heart of supernovae. Astron. Astrophys. 587, A157 
+(2016).
+ 86. Marassi, S. et al. Supernova dust yields: the role of metallicity, rotation, and fallback. Mon. 
+Not. R. Astron. Soc. 484, 2587–2604 (2019).
+ 87. Graziani, L. et al. The assembly of dusty galaxies at z ≥ 4: statistical properties. Mon. Not. 
+R. Astron. Soc. 494, 1071–1088 (2020).
+ 88. Di Cesare, C. et al. The assembly of dusty galaxies at z ≥ 4: the build-up of stellar mass  
+and its scaling relations with hints from early JWST data. Mon. Not. R. Astron. Soc. 519, 
+4632–4650 (2023).
+ 89. Carniani, S. The spectroscopic confirmation of two luminous galaxies at z ~ 14. Zenodo 
+https://doi.org/10.5281/zenodo.12578542 (2024).
+ 90. Astropy Collaboration. et al. Astropy: a community Python package for astronomy. 
+Astron. Astrophys. 558, A33 (2013).
+ 91. Astropy Collaboration. et al. The Astropy Project: building an open-science project and 
+status of the v2.0 core package. Astron. J. 156, 123 (2018).
+ Acknowledgements S.C., E.P. and G.V. acknowledge support by European Union’s HE European 
+Research Council (ERC) Starting grant no. 101040227 - WINGS. S. Alberts acknowledges support 
+from the JWST MIRI Science Team Lead, grant no. 80NSSC18K0555, from NASA Goddard Space 
+Flight Center to the University of Arizona. R.M., W.B., F.D.E., J.W. and J.S. acknowledge support 
+by the Science and Technology Facilities Council (STFC), ERC Advanced grant no. 695671 
+‘QUENCH’ and by the UK Research and Innovation Frontier Research grant no. RISEandFALL. 
+R.M. also acknowledges funding from a research professorship from the Royal Society. This 
+research is supported in part by the Australian Research Council Centre of Excellence for All 
+Sky Astrophysics in 3 Dimensions (ASTRO 3D), through project number CE170100013. A.J.B., 
+A.J.C., J.C., A.S. and G.C.J. acknowledge funding from the ‘FirstGalaxies’ Advanced grant  
+from the ERC under the European Union’s Horizon 2020 research and innovation programme 
+(grant agreement no. 789056). E.C.-L. acknowledges support of an STFC Webb Fellowship 
+(grant no. ST/W001438/1). D.J.E., E.E., B.D.J., G.R., M.R., F.S. and C.N.A.W. are supported by 
+JWST–NIRCam contract to the University of Arizona no. NAS5-02015. D.J.E. is also supported  
+as a Simons Investigator. The Cosmic Dawn Center (DAWN) is funded by the Danish National 
+Research Foundation under grant no. DNRF140. B.E.R. acknowledges support from the NIRCam 
+Science Team contract to the University of Arizona, no. NAS5-02015 and JWST Program no. 
+3215. BRP and SAr acknowledge support from the research project no. PID2021-127718NB-I00 
+of the Spanish Ministry of Science and Innovation/State Agency of Research (grant no. MICIN/
+ AEI/10.13039/501100011033). R.S. acknowledges support from a STFC Ernest Rutherford 
+Fellowship (grant no. ST/S004831/1). S.T. acknowledges support by the Royal Society Research 
+grant no. G125142. H.Ü. gratefully acknowledges support by the Isaac Newton Trust and by the 
+Kavli Foundation through a Newton-Kavli Junior Fellowship. The research of C.C.W. is supported 
+by NOIRLab, which is managed by the Association of Universities for Research in Astronomy 
+under a cooperative agreement with the National Science Foundation. PGP-G acknowledges 
+support from grant no. PID2022-139567NB-I00 funded by Spanish Ministerio de Ciencia e 
+Innovacion grant no. MCIN/AEI/10.13039/501100011033, FEDER, UE.
+ Author contributions S.C., K.H., F.D.E., R.M. and P.J. contributed to the analysis and initial 
+interpretation of the spectroscopic data. All authors contributed to the interpretation of 
+results. S.C., S. Arribas, P.J., M.C., J.W., E.P. and G.V. contributed to the NIRSpec data reduction 
+and to the development of the NIRSpec pipeline. P.J., C.C.W., A.J.B. and K.H. contributed to the 
+design and optimization of the MSA configurations. D.J.E., B.D.J., B.R., C.C.W. and S.T. 
+contributed to the analysis and interpretation of the NIRCam imaging data. F.S. contributed to 
+the lens model. D.J.E., J.M.H. and G.R. contributed to the analysis and interpretation of the MIRI 
+imaging data. P.J., J.W. and F.D.E. contributed to the development of tools for the 
+spectroscopic data analysis.
+ Competing interests The authors declare no competing interests.
+ Additional information
+ Correspondence and requests for materials should be addressed to Stefano Carniani.
+ Peer review information Nature thanks the anonymous reviewers for their contribution to the 
+peer review of this work.
+ Reprints and permissions information is available at http://www.nature.com/reprints.
+Article
+ Extended Data Fig. 1 | NIRSpec slit-losses. a-b, Slit-losses as a function of 
+wavelength for JADES-GS-z14-0 (a) and JADES-GS-z14-1 (b). Slit-losses are 
+estimated by comparing the NIRSpec continuum level and NIRCam fluxes.  
+The first-order polynomial best fits and uncertainties are reported as black 
+lines and gray-shaded regions.
+Extended Data Fig. 2 | NIRSpec spectrum of the third z~14 candidate galaxy. 
+1D (middle) and 2D (bottom) PRISM/CLEAR spectra of JADES-GS-53.10763- 
+27.86014, the third candidate z~14 galaxy observed with NIRSpec in the 
+observing program 1287. Due to the low signal-to-noise ratio, no redshift  
+can be inferred from this spectrum. The top row shows cutouts of NIRCam 
+F090W, F150W, F200W, F277W, F356W, and F444W images. NIRSpec micro- 
+shutter 3-slitlet array aperture is reported in red in the F277W image.
+Article
+ Extended Data Fig. 3 | Low-redshift neighbouring galaxy. a, Spectra of 
+JADES-GS-z14-0 (blue) and of the target 183349 (orange). This latter is within 
+0.4 arcsec from JADES-GS-z14-0, as shown in the NIRCam F277W cutout in the 
+right panel (b). The MSA slitlets used for the two targets are overplotted in blue 
+and orange, respectively.
+Extended Data Fig. 4 | Light profile of the foreground galaxy. a–b, F150W (a) 
+and F200W (b) NIRCam images of JADES-GS-z14-0. The NIRSpec micro-shutter 
+slits of visits 1 and 3 are illustrated in blue and orange, respectively. F150W 
+image is smoothed to the same angular resolution as F200W NIRCam image. 
+The green and red lines show the box-car extraction regions from which we 
+obtained the light profiles reported with the same colors in the third panel.  
+The profiles are normalized to the peak of the foreground galaxy. c, Ratio 
+between the F200W and F150W light profiles in the region where the two 
+galaxies spatially overlap. This ratio quantifies the contamination of the 
+foreground galaxy to JADES-GS-z14-0. Vertical blue dashed line shows the 
+projection of the NIRSpec micro-shutter slit into the radial profile.
+Article
+ Extended Data Fig. 5 | Redshift determination. a–b, Results of the spectral 
+fitting of JADES-GS-z14-0 (a) and JADES-GS-z14-1 (b) while varying the redshift 
+(z), UV slope ( f λ
+ ∝
+ λ
+ β
+ ), fraction of neutral hydrogen in the IGM (xHI), hydrogen 
+column density of the additional damped Lyman-α absorption (log N c
+ ( / )
+ HI
+ size of the ionized bubble (Rion), equivalent width (log EW
+ m
+ −2 ), 
+) and velocity 
+shift (Δv) of Lyman-α line. The corner plots show the posterior distribution 
+( /Å)
+ 0
+ functions and the covariance between the parameters. The posterior distribution 
+of xHI, Rion, and Δv is not illustrated because they are flat. The dotted lines 
+indicate 16th, 50th, and 84th percentile of the marginalized posterior 
+distributions. The red lines in the corner plot of JADES-GS-z14-0 represent  
+the estimates of redshift and log N c
+ ( / )
+ HI
+ emission line.
+ m
+ −2 based on the potential CIII]λ1909 
+Extended Data Fig. 6 | Emission line identification in the prism spectrum  
+of JADES-GS-z14-0. a, Fisher-combined χ2 value as a function of redshift. The 
+gray horizontal lines show Fisher-combined χ2 values at the combined p-values 
+of 0.01 and 0.1. For reference, the blue line marked k
+ 2 , where k is the number of 
+emission lines falling within the search window, reports the mean value of the 
+χ2 statistic under the null hypothesis of no emission lines. There is a peak is at 
+z=14.178 with a p-value of 0.00720. b, Potential line flux signal-to-noise ratios 
+and the overlay shows the locations of the emission lines searched for at the 
+peak of the combined p-value. The potential CIII]λ1909 emission line has a level 
+of significance of 3.6σ.
+Article
+ Extended Data Fig. 7 | Emission line identification in the prism spectrum of 
+JADES-GS-z14-1. a, Fisher-combined χ2 value as a function of redshift. The gray 
+horizontal lines show Fisher-combined χ2 values at the combined p-values of 
+0.01 and 0.1. For reference, the blue line marked k
+ 2 , where k is the number of 
+emission lines falling within the search window, reports the mean value of the 
+χ2 statistic under the null hypothesis of no emission lines. There is a peak at 
+z=14.063 with a p-value of 0.01249. b, Potential line flux signal-to-noise ratios 
+and the overlay shows the locations of the emission lines searched for at the 
+peak of the combined p-value. There are no emission lines with a level of 
+significance higher than 3σ.
+Extended Data Fig. 8 | The sky around JADES-GS-z14-0 and JADES-z14-1. 
+F444W/F200W/F090W false color red/green/blue image of the JADES imaging 
+field7 (background) and F277W/F150W/F115W false color red/green/blue 
+thumbnail images of the two z~14 galaxies. The green outline illustrates the 
+four quadrants of the NIRSpec micro-shutter array of the Cycle 1 NIRSpc 1287 
+program.
+Article
+ Extended Data Fig. 9 | Beagle-based SED modeling of JADES-GS-z14-0. 
+a, Posterior probability distributions obtained with Beagle for our fiducial fits, 
+along with the observed spectrum and model prediction, for JADES-GS-z14-0. 
+From left to right, the columns show the stellar mass M* , star formation rate, age 
+of the oldest stars t, (stellar and interstellar) metallicity Z, V-band attenuation 
+optical depth τˆV, ionization parameter 
+U
+ log S, and escape fraction of ionizing 
+photons fesc
+ . The 1D (marginal) posterior distribution of each parameter is 
+plotted along the diagonal, where the shaded gray regions represent the  
+1σ credible interval. The off-diagonal panels show the 2D (joint) posterior 
+distributions, with the shaded blue regions representing the 1, 2, and 3σ credible 
+intervals. b, The observed spectrum (red line), model predictions (dark blue line), 
+and model predictions before applying instrumental effects (i.e. line-spread 
+function and calibration polynomial, grey line). The model predictions at 
+λ<1450 Å are shown with a cyan line, to indicate that this region was masked 
+during the fitting. In the central panel of the inset, we show the residuals in 
+units of observed errors and the σ
+ ±1 region in grey, while the bottom panel 
+indicates the calibration polynomial.
+Extended Data Fig. 10 | Beagle-based SED modeling of JADES-GS-z14-1. 
+a, Posterior probability distributions obtained with Beagle for our fiducial fits, 
+along with the observed spectrum and model prediction, for JADES-GS-z14-1. 
+From left to right, the columns show the stellar mass M* , star formation rate, age 
+of the oldest stars t, (stellar and interstellar) metallicity Z, V-band attenuation 
+optical depth τˆV, ionization parameter 
+U
+ log S, and escape fraction of ionizing 
+photons fesc
+ . The 1D (marginal) posterior distribution of each parameter  
+is plotted along the diagonal, where the shaded gray regions represent the  
+1σ credible interval. The off-diagonal panels show the 2D (joint) posterior 
+distributions, with the shaded blue regions representing the 1, 2, and 3σ credible 
+intervals. b, The observed spectrum (red line), model predictions (dark blue line), 
+and model predictions before applying instrumental effects (i.e. line-spread 
+function and calibration polynomial, grey line). The model predictions at 
+λ<1450 Å are shown with a cyan line, to indicate that this region was masked 
+during the fitting. In the central panel of the inset, we show the residuals in 
+units of observed errors and the σ
+ ±1 region in grey, while the bottom panel 
+indicates the calibration polynomial.
+Article
+ Extended Data Fig. 11 | ForcePho model fitting. a–b, The data, residual, model, 
+and fluxes with the recovered galaxy component for JADES-GS-z14-0 (a) and 
+JADES-GS-z14-1 (b) in the multiple NIRCam bands. Each frame shows a 2″ ×2″ 
+stamp centred on the location of each galaxy. The figure shows that the model 
+has fit the data well within all bands without leaving significant residuals.
+Extended Data Fig. 12 | Dust to stellar mass ratio. Dust enrichment models by 
+supernovae (SNe) with no (blue) and with (orange) the effect of the partial dust 
+destruction due to the reverse shock, and asymptotic giant branch (AGB) stars 
+from a single star-formation burst at z=20. The relative contribution of the SNe 
+and AGB dust formation are estimated assuming an initial progenitor metallicity 
+in the range 
+Z Z
+ ⊙
+ 0.01< / <0.146. Black circles illustrate the dust-to-stellar mass 
+ratio of JADES-GS-z14-0 and JADES-GS-z14-1. A proxy of the dust masses of the 
+two z~14 galaxies has been estimated from the AV parameter, assuming that 
+dust is distributed in a sphere with a radius as large as the galaxy radius34.  
+We also report in red squares the dust-to-stellar mass ratio of HST-selected, 
+UV-bright galaxies at z~6–7, with dust measurements from ground-based 
+millimeter telescopes37,59,83.
+Article
+ Extended Data Table 1 | Exposure times
+ The total on-source exposure time in seconds for each NIRSpec disperser-filter combinations used in this work.
+Extended Data Table 2 | NIRCam and MIRI fluxes of JADES-GS-z14-0 and JADES-GS-z14-1
+ ForcePho photometry of JADES-GS-z14-0 and 0.2″ diameter circular aperture photometry of JADES-GS-z14-1. † from Helton et al.28.
+Article
+ Extended Data Table 3 | Spectral measurements from prism and gratings spectra
+ Emission line fluxes and rest-frame equivalent widths measured in both prism and gratings spectra. Fluxes are in units of 10−19 erg s −1 cm−2, rest-frame 

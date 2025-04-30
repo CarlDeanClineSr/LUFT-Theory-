@@ -1,0 +1,754 @@
+communications physics
+ Article
+ ANature Portfolio journal
+ https://doi.org/10.1038/s42005-025-02045-w
+ Detecting extragalactic axion-like dark
+ matter withpolarization measurementsof
+ fast radio bursts
+ Checkforupdates
+ BaoWang 1,2,3,XuanYang 1,2,3,Jun-JieWei 1,2
+ , Song-Bo Zhang 1 &Xue-FengWu 1,2
+ 1234567890():,;
+ 1234567890():,;
+ Axionsoraxion-likeparticles(ALPs)areoneofthepromisingdarkmatter(DM)candidates.Aprevalent
+ methodtodetectaxion-likeDMistoseekperiodicoscillationinthepolarizationangles(PAs)oflinearly
+ polarized light emitted from astrophysical sources. In this work, we usethetime-resolvedpolarization
+ measurements of the hyperactive repeating fast radio burst, FRB 20220912A, detected by the
+ Five-hundred-meter Aperture Spherical radio Telescope (FAST) to search for extragalactic axion
+like DM. Given a DM density profile of FRB 20220912A’s host, we obtain upper limits on the
+ ALP-photon coupling constant of gaγ <(3.4×10−11−1.9×10−9)GeV−1 for the ALP masses
+ ma ~(1.4×10−21−5.2×10−20)eV. Persistent polarimetric observations with FAST would extend the
+ constraintstolowermasses.AlthoughthegaγconstraintsderivedfromFRBsarelesscompetitivethan
+ those from other methods, FRBs offer an alternative way to detect axion-like DM on extragalactic
+ distance scales, complementary to galactic DM probes.
+ Oneofthemostimportanttasksthat remain unresolved in modern physics
+ is the detection of dark matter particles (DM, hereafter referring to dark
+ matter rather than dispersion measure), and numerous candidates of DM
+ have been proposed. Axion-like particles (ALPs), a type of ultralight
+ bosons, have emerged as the most prevailing candidates in the search for
+ DM1–6. Thanks to the special properties of ultralight scalar particles
+ (ma ~10−22eV), they can provide a natural solution to the challenges
+ encountered in small-scale structures of the Universe7–9. A lot of strate
+gies for finding axion-like DM have been explored, including photons
+ from axion conversion10–13, nuclear magnetic resonance14,15, periodic
+ oscillations of linearly polarized light16–20, and other terrestrial or astro
+nomical experiments21,22.
+ Laγ ¼
+ Among the various axion-like DM detection methods, detecting per
+iodic oscillations of polarized light has been regarded as a promising
+ approach in astrophysics16–20,23–27. When light propagates through the ALP
+ f
+ ield, photons would interact with ALPs, and the interaction term is
+ 1
+ 4
+ gaγaFμν
+ ~ Fμν ,wheregaγrepresentsthecouplingstrengthbetweenthe
+ axion field (a) and the electromagnetic field (Fμν). The interaction leads to
+ modifications in the dispersion relations28,29. The left- and right-handed
+ circular polarization modes of light experience opposite corrections due to
+ their different dispersion relations. This effect is known as cosmic bire
+fringence, resulting in changes in the polarization angles (PAs) of the light.
+ Therefore, in the presence of an ALPfield,ifthe light is linearly polarized, its
+ PAs will oscillate with the ALP field, with an amplitude proportional to gaγ.
+ Fast radio bursts (FRBs) are brief and intense radio transients that
+ originate from cosmological distances30–36. FRBs have been powerful
+ astrophysical laboratories for studying cosmology37–48 and also have the
+ potential to play an important role in the detection of DM25,49–56.Todate,no
+ studies have utilized real polarization observations of FRBs to constrain
+ axion-like DMdirectly.ThenecessaryconditionsforFRBstoserveasaxion
+like DM probes include: (i) active repeating bursts, (ii) nonmagneto-ionic
+ local environments with stable PAs, (iii) highly linear polarization, and (iv)
+ precise localizations within host galaxies. The repetition pattern of FRBs
+ enables us to monitor their polarization properties long-term to detect
+ axion-like DM on extragalactic distance scales, complementary to other
+ galactic DM probes. The schematic illustration is shown in Fig. 1.One
+ intriguing sample for such a study is FRB 20220912A, an active repeating
+ source with highly linear polarization57,58, and its local environment is
+ nonmagneto-ionic59. Its long-term polarization observations from the Five
+hundred-meter Aperture Spherical radio Telescope (FAST)58 provide a
+ remarkable opportunity to detect extragalactic axion-like DM through
+ searching for a periodic oscillation in the PAs.
+ In this work,weconstraintheALP-photoncouplingconstantgaγusing
+ polarization data of FRBs. We analyze the polarization angle variations of
+ linearly polarized emission from FRB 20220912A observed by FAST. All
+ currently available observations from October 28th, 2022 to December 5th,
+ 2022areadoptedforourstudy.Theobservationaltimecoverageof ~38days
+ with a cadence of ~1 day is sensitive to ALPs with mass ranging from
+ 1Purple Mountain Observatory,ChineseAcademyofSciences,Nanjing,China.2SchoolofAstronomyandSpaceSciences,UniversityofScienceandTechnology
+ of China, Hefei, China. 3These authors contributed equally: Bao Wang, Xuan Yang. e-mail: jjwei@pmo.ac.cn; sbzhang@pmo.ac.cn; xfwu@pmo.ac.cn
+ Communications Physics|          (2025) 8:130 
+1
+1.4×10−21eVto5.2×10−20eV.Byestimatingtheperiodicvariations in
+ linearPAs,wecanplaceupperlimitsongaγdirectly.Finally,wealsopredict
+ further constraints fromcontinued polarization observations of FRB
+ 20220912Ainthefuture.
+ Results
+ ThePolarizationanglesdetectedbyFAST
+ AftertheinitialdiscoveryofFRB20220912A,subsequentobservationsfrom
+ multipletelescopeshaveconsistentlydetectedalargenumberofburstsfrom
+ thisspecificsource58–69.ItisnoteworthythatFRB20220912Awasmonitored
+ byFASTforaperiodofseveraldozendays,duringwhichatotalof1076
+ burstswererecorded58.Mostof theseburstsexhibitnearly100%linear
+ polarization.Therotationmeasure(RM)ofFRB20220912Aisverycloseto
+ 0anddidnot showanyvariationduringtheFASTobservationperiod,
+ indicatingthatFRB20220912Aislocatedinalikelynonmagneto-ioniclocal
+ environment58,59.Thenon-variableRMalsomeans that thePAsofFRB
+ 20220912Aarerelativelystable.
+ Inouranalysis,thePAsofFRB20220912Aareprocessedfromtheraw
+ dataofFAST.Thedetaileddataprocessingcanbefoundinthesubsection
+ ThePADataAnalysisofMethods.Figure2displaysPAmeasurementsof
+ FRB20220912Aasafunctionoftime(MJD59880toMJD59918),andthe
+ medianvalueofthePAsiscalculatedforeachday.Asillustratedinthisplot,
+ thePAsexhibitconsiderablevariationwithinaday,buttheyarerelatively
+ stableonthemonthlytimescaleduringtheobservationalperiod.Becauseof
+ thetimingoftheobservations,thereisaconcentrationofdataforasingle
+ daywithinnarrowtimeintervals,whichresultsinpoordatacontinuityfrom
+ onedaytothenext.Therefore,ouranalysisfocusesonPAvariationswitha
+ minimumoscillationperiodofoneday. Inthiscase, theminimumtime
+ intervalis1day,whilethetotalobservationaltimeis38days.Accordingto
+ thetheorypresentedinthesubsectionALP-photonCouplingofMethods,
+ theALPmassmacanbedeterminedthroughma¼2πð1þzÞ=T0.Itisclear
+ fromthisformulathatthelowerandupperlimitsofthemassmadependon
+ thetotalobservationaltime(T0¼38days)andtheminimumtimeinterval
+ (T0¼1day),respectively.Thatis,thesensitiveALPmassmafallswithinthe
+ rangeof1.4×10−21eVto5.2×10−20eV.
+ SearchforALP-inducedoscillations
+ AsdescribedinthesubsectionALP-photonCouplingofMethods,whena
+ linearlypolarized light propagates inanexternalALPfield, thecorre
+spondingPAswouldhaveatime-dependentchangeduetotheALP-photon
+ couplingeffect.ByanalyzingtheperiodicvariationsofPAs,wethuscan
+ constrain the ALP-photon coupling strength, thereby facilitating the
+ potentialdetectionofaxion-likeDM.
+ The Lomb-Scargle (LS) Periodogram is a general tool for
+ searching periodic signals, and has also been applied to axion
+ detection16,26.The significanceof thepeakvalues intheLSPeriod
+ogramcanbeassessedbytheFalseAlarmProbability(FAP).TheLS
+ periodogramandFAPcanbe calculatedusing thepythonpackage
+ ASTROPY, and the results fromthe time series of polarizationmea
+surements for FRB 20220912Awith ionospheric corrections are
+ shown inFig. 3.Moredetails canbe found in the subsectionThe
+ Lomb-ScarglePeriodogramofMethods.Wecanfindthat all values
+ aremuch lower than the 32%FAP line. Consequently, there is
+ insufficient evidence to support ALP-inducedperiodic oscillations
+ present inthePAsofFRB20220912Abasedoncurrentobservations.
+ Therefore,wecanonlydetermineanupper limitof theALP-photon
+ couplingconstant gaγusinganalternativemethod.
+ Theresultingconstraintsandcomparisons
+ WeemploytwoanalysismethodstoconstraintheALP-photoncoupling
+ constant: thestandarddeviation(SD)methodandtheLSPeriodogram
+MonteCarlomethod70–72.Theformer iscruderbutmoreconvenient for
+ estimation.Furtherdetailsof thetwomethodscanbefoundinthesub
+sectionsTheStandardDeviationofPAsandLSPeriodogram-MonteCarlo
+ MethodofMethods,respectively.
+ For theestimationfromtheSDmethod,weobtainupper limitsof
+ gaγ < (2.7×10−11−1.0×10−9)GeV−1 for theALPmassesma~(1.4×
+ 10−21−5.2×10−20)eV.FortheLSPeriodogram-MonteCarlomethod, the
+ obtainedupperlimitsaregaγ<(3.4×10−11−1.9×10−9)GeV−1forthesame
+ ALPmassrange,whichisconsistentwiththeresultsofthefirstmethod.The
+ resultingconstraintsongaγfromtheLSPeriodogram-MonteCarlomethod
+ areshowninFig.4,alongwithother95%CLupperlimitsfromdifferent
+ astrophysical sources. Finally, we also forecast a future constraint.
+ IfthepolarizationobservationsofFRB20220912Alastuptooneyear,the
+ limit obtained fromtheLSPeriodogram-MonteCarlomethodwould
+ extendtolowerALPmasses,yieldinggaγ<3.3×10−12GeV−1 foranALP
+ massma~1.4×10−22eV.
+ Recently, Gao et al.56 proposedgravitationally lensedFRBs as
+ probes for huntingGalactic axionDM, predicting that theALP
+photoncouplingcouldbeconstrained tobe gaγ<7.3×10−11GeV−1
+ foranaxionmassma~10−21eV.This forecast limit issimilar toour
+ result of gaγ<2.1×10−11GeV−1 for the sameaxionmass fromreal
+ FRBpolarizationobservations.Furthermore, asshowninFig.4,our
+ result isslightlybetter thantheconstraint fromtheextendedCERN
+ AxionSolarTelescope (CAST) (gaγ<5.8×10−11GeV−1)73 andcom
+parablewith the constraint fromthe supernovae observedby the
+ Fermi Large Area Telescope (LAT) (gaγ <2.6×10−11GeV−1)22. In
+ contrast to thegalacticprobes, suchaspulsars18,25,26, blackhole19,20,
+ andprotoplanetarydisk24,ourmethodcandetectALPsonkiloparsec
+ scales, whichhighlights the potential of FRBs for detecting extra
+galacticaxion-likeDM.
+ Fig.1|Illustrationofdetectingextragalacticaxion-likedarkmatter(DM)with
+ polarizationmeasurementsofFRBs.TheinteractionbetweenphotonsandALPs
+ leadstomodificationsinthedispersionrelations,resultinginadifferenceinphase
+ velocitybetweenthetwomodes.Thisphenomenon,knownascosmicbirefringence,
+ causeschangesinthepolarizationangles(PAs)ofthelight.Ifaxion-likeDMis
+ distributedaroundtheFRB20220912A'shostgalaxy,ALP-inducedPAoscillations
+ (ϕ(t))canemerge.TherepeatingFRBsenableustomonitortheirpolarization
+ propertieslong-termtodetectaxion-likeDMonextragalacticdistancescales.
+ Fig.2|Linearpolarizationmeasurementsofthe
+ burstsfromFRB20220912AdetectedbyFAST.
+ Theobservedpolarizationangle(PA,ϕobs)ofeach
+ burstisdepictedbyayellowpoint,thepurplepoints
+ representthedailymedians,andthelightpurple
+ shadedareaencompassesthe1σconfidencerange.
+ Thedashedlinerepresentsthemeanbackground
+ 〈ϕbkg〉=−24.98°.
+ https://doi.org/10.1038/s42005-025-02045-w Article
+ CommunicationsPhysics|          (2025) 8:130 2
+Article
+ https://doi.org/10.1038/s42005-025-02045-w
+ Fig. 3 | TheLSperiodogramforthetimeseriesofpolarization measurements for
+ FRB20220912A. The purple line represents the power spectrum (PLS(ν)) of the LS
+ periodogram. The red dashed line marks the False Alarm Probability (FAP)
+ threshold at 32%. Thesignals withPLS(ν)valuesbelowthis line arenotconsideredto
+ oscillate periodically at the 1σ confidence level.
+ Discussion
+ In this work, we attempted to detect extragalactic ALPs in the host
+ galaxies of the hyperactive repeating FRBs. Thanks to the nonmagneto
+ionic local environment, highly linear polarization, and relatively stable
+ PAs within the observation period, FRB 20220912A is hitherto the most
+ suitable repeating source for carrying out such a study. Note that
+ the distance of FRBs does not provide an advantage in detecting axion
+like DM. This is because the PA shift depends on the axion field at the
+ initial
+ and final positions, independent of the propagation
+ distance (see Equation (3) in Methods). With the state-of-the-art PAs
+ observations of the bursts from the repeating source FRB 20220912A
+ taken by FAST, we obtained upper limits on the ALP-photon coupling
+ constant of gaγ < (3.4×10−11−1.9×10−9)GeV−1 for the ALP masses
+ ma ~(1.4×10−21 −5.2×10−20) eV. If the polarization observations of
+ FRB 20220912A are expected to last for one year, the gaγ limit would be
+ gaγ <3.3×10−12GeV−1 for an ALP mass ma ~1.4×10−22eV.
+ Although the constraints on gaγ from FRBs are not as competitive as
+ those from other sources, such as the active galaxies16, the quasar
+ H1821+643 and the cosmic microwave background74,75, and the mass
+ range of ma <2×10−21eV have been excluded by the Lyman-α Forest
+ Data76, our attempt can serve as an alternative and complementary
+ method. FRBs have the advantage of being abundant in extragalactic
+ systems. Numerous extragalactic FRBs offer an alternative way to detect
+ axion-like DM in various DM-rich extragalactic systems, thereby
+ obtaining tighter constraints on gaγ that complement other galactic DM
+ probes, such as pulsars.
+ In the era of Square Kilometre Array (SKA), a largesample of localized
+ FRBs will significantly enhance their applications. When numerous FRBs
+ are combined, the constrained precision on the ALP-photon coupling
+ constant will statistically increase by a factor of ffiffiffiffi
+ N
+ p .According to Zhang
+ et al.48, Oð105Þ-Oð106Þ FRBs can be detected by the mid-frequency array of
+ thefirstphaseofSKA(SKA1-MID)ina10-yearobservationperiod.Todate,
+ more than 800 FRBs have been detected77, and among them, only one, FRB
+ 20220912A,hasbeenidentifiedasarepeatingFRBwithanonmagneto-ionic
+ environment. Assuming there are N~100(0.1%ofthetotal)FRBslike FRB
+ 20220912A in SKA1-MID, the upper limit of the coupling constant would
+ improve by approximately an order of magnitude.
+ It should be underlined here that the implicit assumption on our
+ results is that the ALP mass exceeds the Hubble parameter in the
+ appropriate epoch of the Universe. In this condition, the ALP-induced
+ PA oscillations can begin and lead to an evolution of energy density in
+ the form of DM5,9. If the ALP mass is so low that it approaches the
+ Fig. 4 | The resulting constraints on the ALP-photon coupling constant gaγ for
+ different ALP mass ma, obtained from the polarization measurements of FRB
+ 20220912A.The yellow shaded area corresponds to the upper limits of gaγ derived
+ from the LS Periodogram-Monte Carlo method. The yellow dot-dashed line
+ represents future constraints from continued polarization observations of FRB
+ 20220912A for up to one year. Other 95% CL upper limits from different astro
+physical sources are also displayed for comparison, including the VLBA polariza
+tion observations of jets from active galaxies (blue solid line)16, the Chandra
+ observation of the quasar H1821+643 (blue dot-dashed line)98, the Extended
+ CAST experiment (purple shaded area)73, the polarized light of pulsar from the
+ Parkes Pulsar Timing Array (PPTA) project (gray shaded area)26, the Fermi
+LAT observation of supernovae (red dot-dashed line)22, the observations of the
+ cosmic microwave background (CMB) from BICEP/Keck (gray dotted line)74
+ and SPT-3G (gray solid line)75, and the mass constraint from the Lyman-α forest
+ data (vertical dotted line)76. For a more complete summary, please refer to this
+ link99.
+ Hubble constant, ma ~10−33eV, it will be frozen and manifest as a form
+ of dark energy rather than DM.
+ Methods
+ ALP-photon coupling
+ ALPscanbedescribedasapseudo-scalarfield a(x,t)withmassma,wherex
+ is thespatial coordinatesandtisthetime.TheALPfieldcaninteractwiththe
+ electromagnetic field, and its dynamics can be captured by the Lagrangian
+ terms78:
+ L ¼ 1
+ 4FμνFμν þ1
+ 2
+ 1
+ ∂μa∂μa 1
+ 2m2
+ aa2 þ
+ 4
+ ð1Þ
+ gaγaFμν
+ ~ Fμν ;
+ where Fμν denotes the electromagnetic field tensor, ~ Fμν ¼1
+ 2ϵμνλσFλσ is the
+ dual of Fμν,andgaγ represents the ALP-photon coupling constant which
+ characterizes the strength of interaction. This coupling leads to a
+ modification in the dispersion relation16:
+ ω± ’k± 1
+ 2 gaγnμ∂μa;
+ ð2Þ
+ where nμ is null tangent vector of light, k isthewavevector,andthefre
+quency ω± corresponds to two circular polarization states. The natural unit
+ system ℏ=c=1 is employed here. When two vertically polarized electro
+magnetic waves of these two states propagate, a phase shift occurs between
+ them due to the disparity in their phase velocities. This phase shift leads to
+ the rotation of the polarization plane, known as cosmic birefringence.
+ Specifically, the frequency difference between the two polarization com
+ponents is Δω = ω+ − ω− =gaγnμ∂μa. If waves emitted from the source at
+ position x1 at time t1 are received by an observer at position x2 and time t2,
+ Communications Physics|          (2025) 8:130 
+3
+1
+ ∂μadx
+ Article
+ https://doi.org/10.1038/s42005-025-02045-w
+ the ALP-induced PA shift is then expressed as
+ ϕ ¼1
+ 2
+ Z
+ C
+ Δωds ¼
+ Z x2
+ 2
+ gaγ
+ x1
+ ¼1
+ 2 gaγ aðx2;t2Þ aðx1;t1Þ ;
+ ð3Þ
+ where C is the propagation path of waves. From Equation (3), it is evident
+ that the PAshiftϕis determinedbythetime-dependent axion field a(x,t)at
+ the initial and final positions, since it arises from the path integral of the
+ axion field gradient (∂μa). The equation of motion for the ALP fieldisgiven
+ by the Klein-Gordon equation. When we neglect the friction term, the
+ solution simplifies and exhibits an oscillating form:
+ aðx; tÞ¼a0ðxÞsin mat þ δ ;
+ ð4Þ
+ where δ is the position-dependent phase. a0(x) is the amplitude that relates
+ to theenergydensityoftheALPfieldρ(orequivalentlytheenergydensityof
+ DM, if the dominant DM is assumed to be made up of ALPs), i.e.,
+ ρ ¼1
+ 2m2
+ aα 2a2
+ 0,whereα is a random nonnegative variable following the
+ Rayleigh distribution fðαÞ¼αexpð α2=2Þ79. When the observed time
+ scale is much smaller than the coherence time scale, it becomes essential to
+ consider this stochastic nature of the connection between the amplitude a0
+ and the energy density ρ79,80. The oscillation period of the ALP field is given
+ by T=2π/ma,which depends on the ALP mass. If the energy density of the
+ ALP field at the observer is much lower than the one at the source (i.e.,
+ a(x2, t2) ≪ a(x1, t1)), Equation (3) can be converted to an oscillatory
+ expression,
+ p
+ f
+ f
+ iffiffi
+ ϕðtÞ¼ 1
+ 2
+ 2 gaγ m 1
+ a ρ
+ 2
+ αsin 2π t
+ T0 þδ ;
+ ð5Þ
+ where T0 ¼ Tð1þzÞ is the observed period on Earth, taking into account
+ cosmic expansion. Equation (5) describes that the PAs have the periodic
+ oscillation characteristic when linearly polarized waves are coupled
+ with ALPs.
+ DMdensity profile of the host galaxy
+ Outside the solitonic cores of galaxies, the DM density distribution ρ(r)can
+ be approximately described by the generalized Navarro-Frenk-White
+ (NFW) profile81:
+ ρðrÞ¼
+ ρ0
+ r=rs
+ β 1þr=rs
+ 3 β
+ ;
+ ð6Þ
+ whereristhedistancefromthegalaxycenter, ρ0isthecharacteristic density,
+ rs is the scale radius, and β is the power-law index. Also, ρ(r) ∝ r−β when
+ r ≪rs and ρ(r) ∝ rβ−3 when r ≫ rs.Forthecaseofβ =1,Equation(6)is
+ reduced to the original NFW profile82. In principle, these coefficients (ρ0, rs,
+ and β) can be determined by fitting the rotation curves of galaxies. The
+ physical origins of FRBs are still unknown, but some of them have been
+ localized in extragalactic host galaxies.Oncewehaveenoughobservational
+ information aboutthe FRBhostgalaxy,wecanestimatetheDMdensityρin
+ the vicinity of the FRB source.
+ The Deep Synoptic Array localized the repeater FRB 20220912A to a
+ host galaxy, PSO J347.2702 +48.7066, at redshift z =0.077157.Thehost
+ galaxyhasastellarmassofapproximately1010 M⊙, a star-formation rate of
+ ≳0.1M⊙yr−1, and an effective radius of 2.2 kpc. Gordon et al.83 compared
+ the optical host luminosities of repeating and nonrepeating FRBs across
+ redshift, and definedademarcationatluminosity109 L⊙belowwhichahost
+ can be classified as a dwarf galaxy. FRB 20220912A sits just above the
+ borderline at ≈1.1 × 109 L⊙,suggestingthatitshostmaybeadwarfgalaxy83.
+ Since they have higher fractions of DM compared to more massive
+ systems, dwarf galaxies are deemed as ideal systems to probe the DM density
+ profile84. However, we currently lack rotation curve observations of the host
+ of FRB 20220912A to investigate its DM density distribution. Here we use the
+ DMdensity profile of a dwarf galaxy, NGC 4451 (with a similar stellar mass
+ of ~1010 M⊙andasimilar radius of ~ 2.2 kpc84), as a reference. Note that the
+ differences in DM density profiles between NGC 4451 and FRB 20220912A’s
+ host have negligible effects within the precision range of our study. Based on
+ the stellar rotation curve, Cooke et al.84 determined the coefficients of the
+ generalized NFW profile (Equation (6)) for NGC 4451, i.e.,
+ ρ0 =0.41M⊙pc−3, rs =2.2kpc, andβ = 0. Furthermore, a recent milli
+arcsecond localization of FRB 20220912A shows that its transverse offset
+ from the host galaxy center is r≈0.8 kpc85. With this information, an estimate
+ of the DM density at the location of FRB 20220912A from Equation (6)is
+ ρ ~0.16 M⊙pc−3. This value is much larger than the DM density near our
+ Earth, which is ~ 0.01 M⊙pc−3 estimated by the Galactic NFW profile86.
+ The PADataAnalysis
+ The PAs of FRB 20220912A were derived from the raw data of FAST. The
+ central frequency, bandwidth, number offrequency channels,andsampling
+ time for the raw data were 1.25 GHz, 0.5GHz, 4096, and 49.152μs,
+ respectively. We used the GPU-accelerated transient search software HEIM
+DALL and processed the data on FAST’s high-performance computer facil
+ities. A dispersion measure range of 200 to 250pc cm−3wassearched, with a
+ signal-to-noise ratio threshold of 6.5 and a maximum boxcar of 512. After
+ determining the dispersion measures, the de-dispersed polarization data
+ were calibrated using the PSRCHIVE software package with correction for
+ differential gain and phase between the receivers achieved through the
+ injection of a noise diode signal before each observation. The rotation of the
+ telescope and the variation of the receiver across the days were calibrated
+ through PAC. TheRMwassearchedfrom −2000to2000radm−2instepsof
+ 1radm−2 using the RMFIT program87. Ionospheric RMs in the direction of
+ FRB 20220912A at each burst’s arrival time were computed using FRion
+ package88. The ionosphere model is sourced from the International GNSS
+ Service (IGS), which provides ionosphere vertical total electron content
+ (TEC) maps daily. FRion downloads these TEC maps from NASA CDDIS
+ archive. After correcting thedatawiththebest-fittedRMs,wederivethePAs
+ of the linearly polarized component. During a total of 9.2 hours of obser
+vations between October 28th, 2022 and December 5th, 2022 (corre
+sponding to MJD 59880 and MJD 59918), we obtain 674 bursts with RM
+ measurements. The PA data of these bursts are available in Supplemen
+tary Data 1.
+ The standard deviation of PAs
+ Variations in PAs of FRBs are complex and puzzling89–91.Theprevailing
+ understandingisthatthesevariationsaremainlyattributedtothesignificant
+ f
+ luctuationsinthemagneticfieldssurroundingFRBsources.However,ifthe
+ axion-like DM exits in the host galaxy and envelops the FRB sources, the
+ observed PA (ϕobs) isexpectedtobecomposedof twocomponents:one
+ from the PA contribution of the astrophysical background (e.g., the mag
+netic field), ϕbkg, and the other one is the ALP-induced PA shift, ϕ(t), i.e.,
+ ϕobs ¼ ϕbkg þ ϕðtÞ’hϕbkgiþΔϕbkg þϕðtÞ;
+ ð7Þ
+ where〈ϕbkg〉represents the meanvalueofthePAcausedbythebackground
+ magneticfield andΔϕbkgcorrespondstothePAfluctuationarisingfromthe
+ magnetic field changes. Since Δϕbkg is unpredictable, we simply assume that
+ the magnetic field is time-invariant, which means that the observed PA
+ f
+ luctuations are attributed to the ALP-photon coupling effect, i.e.,
+ ϕobs = 〈ϕbkg〉 + ϕ(t). Actually, the fluctuations caused by time-varying
+ magnetic fields are quite real, which means that ignoring the contribution
+ from Δϕbkg will conduct conservative upper limits on the ALP-photon
+ coupling constant gaγ for different ALP masses, except in a case of
+ coincidences where ϕ(t)andΔϕbkg cancel out in opposite phases.
+ Giventherandomnessofthevalueofthephaseδ(seeEquation(5)),we
+ use the SD of ALP-induced PA shift ϕ(t) to characterize its oscillation
+ Communications Physics|          (2025) 8:130 
+4
+amplitude18.Thisyields
+ Δϕ
+ ffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+ ϕ2ðtÞ
+ q
+ ’1:96° ρ
+ 0:16Mpc 3
+ 1
+ 2
+ × ma
+ 10 21eV
+ 1 gaγ
+ 10 11GeV 1 :
+ ð8Þ
+ The mean value of the observed daily median PAs is 〈ϕMed〉 =
+ −24.98±3.83°.Herethemean−24.98° isregardedasthemeanback
+ground〈ϕbkg〉,andthe1σSD3.83°isregardedasΔϕ.FromEquation(8),we
+ canseethatΔϕisproportionaltogaγforagivenALPmassma.WiththeALP
+ massrangingfrom1.4×0−21eVto5.2×10−20eV,thecorrespondingupper
+ limitsongaγcanbeobtainedasgaγ<(2.7×10−11−1.0×10−9)GeV−1.
+ Lomb-Scargleperiodogram.TheLSperiodogramisacommonlyused
+ techniquetoidentifytheperiodicsignals intimeseries70,71. It iswidely
+ appliedinastronomy72,92,andhasalsobeenemployedinaxionsearch16,26.
+ TheLSPeriodograminvolves thecomputationof thepowerspectrum
+ PLS(ν), which is associatedwith the probability of a periodic signal
+ at frequenciesν.AhigherPLS(ν) value indicatesagreaterprobability
+ of periodicity. We consider a time series (yi, ti) with SD σi of
+ lengthN(i=1, . . . ,N),andthentherequiredsymbolsaredefinedas
+ follows:92
+ YY ¼ P N
+ i¼1
+ wiy2
+ i Y Y; YC¼P N
+ i¼1
+ wiyici Y C;
+ YS ¼ P N
+ i¼1
+ wiyisi Y S; CC¼P N
+ i¼1
+ wic2
+ i C C;
+ SS ¼ 1 P N
+ i¼1
+ wic2
+ i S S; CS¼P N
+ i¼1
+ wicisi C S;
+ ð9Þ
+ where wi¼ 1=σ2
+ i =PN
+ i¼11=σ2
+ i is the normalized weight, si¼
+ sinð2πνtiÞ,ci¼cosð2πνtiÞ,Y¼PN
+ i¼1wiyi,C¼PN
+ i¼1wicosð2πνtiÞ,and
+ S¼PN
+ i¼1wisinð2πνtiÞ.ThepowerspectrumPLS(ν)isdefinedas
+ PLSðνÞ¼ 1
+ YY D SS Y2
+ CþCC Y2
+ S 2CS YC YS ; ð10Þ
+ whereD¼CCSS C2
+ S.Additionally,thesignificanceofthepeakvaluesin
+ PLS(ν)canbeassessedbytheFalseAlarmProbability(FAP).TheFAP
+ quantifies the probability of periodic signals arising from random
+ fluctuations72, thereby enabling to exclude false periodic signals.We
+ implementthisanalysisusingthePythonpackageASTROPY,butnoperiodic
+ signalshavebeenverifiedinthePAshiftϕ(t)ofFRB20220912A.Theresults
+ fromthetimeseriesofpolarizationmeasurementsforFRB20220912Awith
+ ionosphericcorrectionsareshowninFig.3,wherethefrequencyresolution
+ is0.002day−1.
+ LSperiodogram-MonteCarloMethod
+ ToobtainarobustconstraintontheALP-photoncouplingconstantgaγ,we
+ referenceandadjustthemethodinrefs.16,26.WeperformMonte-Carlo
+ simulations togenerate theartificial timeseries thatkeepthe temporal
+ coordinatesandexhibitperiodicoscillationsbasedontherealdistributions
+ of674PAdatawithionosphericcorrections.Thisenablesustosimulatethe
+ powerspectrumPLS(ν)inthepresenceoftheALP-inducedPAoscillations,
+ andtoestimate95%CLupperlimitsongaγbycomparingitwithPLS(ν)from
+ realdata.Toillustrateourapproach,foraquantityX,weusedistinguishable
+ symbols:Xforrealdataand^ Xforsimulateddata.Foragivenfrequencyνa
+ andthecorrespondingPLS(νa), theconstraintprocess issummarizedas
+ follows:
+ 1. First,wegenerate2500setsofsimulatedPAdatað^ ϕ;^ σ;tÞbyrandomly
+ samplingfromthehistogramdistributionsofthefullPAdataset,and
+ insertaperiodicsignalΔ^ ϕ¼^α^ φsinð2πνatþ^ δÞ,wherethestochastic
+ fluctuation ^ α is sampled from a Rayleigh distribution
+ fð^ αÞ¼^αexp ^ α2=2 , theamplitude^ φisuniformlysampledinthe
+ range[0, 15]degrees,andthephase^ δ isuniformlysampledinthe
+ range[0, 2π].
+ 2.Next,wecalculate^ PLSðνaÞforeachof the2500setsofsimulated
+ PA data and pair it with the amplitude ^ φ to form an
+ arrayð^ φ;^ PLSðνaÞÞ.
+ 3.Then,weextractallamplitudes^φthatyieldthesamepowerspectrum
+ astherealdataatfrequencyνa.Specifically,wesearchfor^φinthearray
+ ð^ φ;^ PLSðνaÞÞ thatsatisfiestheconditionthat thesimulatedspectrum
+ value^ PLSðνaÞfallswithinanarrowinterval[PLS(νa)−ϵ,PLS(νa)+ϵ]of
+ therealspectrumvalue.Inotherwords,all^ φmustsatisfy^ PLSðνaÞ2
+ ½PLSðνaÞ ϵ;PLSðνaÞþϵ (herewesetϵ=0.005).
+ 4. Intheset^φextractedinstep3,wedetermineavalueφ95suchthat95%
+ of^ φsatisfy^ φ<φ95,representinga95%CLupperlimitofALP-induced
+ amplitudeatfrequencyνa.Finally,anupperlimitongaγforanALP
+ massmacanbeinferredwitha95%CLbyprovidingaSDofφ95= ffiffiffi 2 p
+ andafrequencyνaaccordingtoEquation(8).
+ Theaboveprocessisperformedforeachνa2 νj1=38≤ν≤1 (in
+ unitsofday−1)toobtain95%CLupperlimitsofgaγforallsensitiveALP
+ massranges.Theconstraintresults(purpleshadedarea)arepresentedin
+ Fig.5,wheretheresultsobtainedfromthecaseoffixingα=1(i.e.,without
+ consideringthestochasticnatureoftheamplitudeoftheaxionfield;denoted
+ byredline)andtheSDmethod(denotedbyorangeline)isalsoplottedfor
+ comparison. Similar results indicate that the estimation fromthe SD
+ methodofthedailyPAmediansisreasonable.
+ ThesignificantvariationsinPAwithinasingledayarenotrelevantto
+ thelong-periodsignalwefocuson(1-38days).Thisisbecauselong-period
+ signalschangeverylittleovershorttimescales,effectivelyaddingaconstant
+ tothedailyPAs.Additionally,wecaninferthattheeffectsofthestochastic
+ natureofDMarenegligibleinouranalysis,whichcanbeattributedtothe
+ expectationoftheRayleighdistributionbeing ffiffiffiffiffiffiffiffi π=2 p ,whichisclosetothe
+ fixedvalueof 1.Weobtainupper limitsontheALP-photoncoupling
+ constant of gaγ<(3.4×10−11−1.9×10−9)GeV−1 for theALPmasses
+ ma~(1.4×10−21−5.2×10−20)eV.Basedonthecurrentdistributionand
+ accuracyofPAdata,wesimulatethePAvariationoverthecourseofayear
+ andapplythesamemethodstofindφ95.Withfuturepolarizationobser
+vationsofFRB20220912Aforoneyear,thegaγlimitwouldextendtolower
+ ALPmasses, i.e., gaγ<3.3×10−12GeV−1 for anALPmassma~1.4×
+ 10−22eV.
+ Fig.5|TheresultingconstraintsontheALP-photoncouplingconstantgaγfor
+ differentALPmassma.Theorangelinerepresentstheestimationfromthestandard
+ deviation(SD)method.Thepurplesolidlineandredlinecorrespondtothederived
+ upperlimitsofgaγforthecasesofrandomαandfixedα=1,respectively(see
+ Equation(5)).Thepurpledot-dashedlinerepresentsfutureconstraintsfromcon
+tinuedpolarizationobservationsofFRB20220912Auptooneyear.
+ https://doi.org/10.1038/s42005-025-02045-w Article
+ CommunicationsPhysics|          (2025) 8:130 5
+The influence of the circular polarization degree
+ Article
+ https://doi.org/10.1038/s42005-025-02045-w
+ Fig. 6|Thecumulativeprobabilitydistributionofthelinearpolarization degrees
+ of 674 bursts from FRB 20220912A and the relative variation of the coupling
+ constant gaγ. The left y axis: the cumulative probability distribution of the linear
+ polarization degrees (purple line). The right y axis: the relative variation of the
+ coupling constant gaγ obtained by the standard deviation (SD) method after
+ removingthosedatabelowagivenlinearpolarizationthresholdandthendividingby
+ the gaγ constraint obtained from the total dataset (orange line).
+ Fig. 7 | The best-fitting generalized Navarro-Frenk-White (gNFW) profile of
+ NGC4451 (purple solid line) with a 95% confidence region (gray shade). The
+ relation between the dark matter (DM) density ρ(r) and the distance r from the
+ galaxy center is displayed (see Equation (6)). The location of FRB 20220912A (red
+ dashed line) and the estimated DM density near our Earth based on the Galactic
+ NFWprofile (orange dashed line) are indicated.
+ The influence of the Faraday rotation
+ Stable PAs are essential requirements for our study. For most FRBs, the
+ dominant mechanism of PA variation is the Faraday rotation effect when
+ propagating through magnetizedplasma. The RMisacrucial parameter for
+ quantifying this effect. The PAs induced by Faraday rotation can be
+ expressed as ϕ =RM(c/ν)2,wherec is the light speed and ν is the frequency.
+ In our FRB 20220912A dataset, the mean value of the daily median RM is
+ 〈RMMed〉=−0.91±1.12radm−2.SuchasmallRMmayimplythattheRM
+ contribution from its host galaxy is comparable to that of the Milky Way58,
+ whichis ~−16radm−293.Nevertheless,theRMfromthegalacticmediumis
+ stable and thus has negligible influence. Additionally, the long-term varia
+tion of RMis also stable58, with a slope of 0.017 rad m−2 day−1 (0.06° day−1).
+ TheSDofALP-inducedPAshiftis ~2°atamassof10−21eV, whichcanbe
+ estimated using Equation (8). If the Faraday rotation contributes a com
+parable PA shift, the RM needs to reach ~ 0.6 rad m−2.TheSDof〈RMMed〉
+ for FRB 20220912A is comparable with this value. This indicates that
+ although it is reasonable to disregard the PA caused by the magnetic field in
+ our analysis, the influence of the Faraday rotation prevents us from further
+ improving accuracy.
+ Despite the highly linear polarization observed in FRB 20220912A, obser
+vations have shown that this source also exhibits a fraction of circular
+ polarization. The possible explanations include intrinsic radiation
+ mechanisms94,95
+ or propagation effects within a magnetar’s
+ magnetosphere96,97. To investigate the influence of the circular polarization
+ degree, we calculate the cumulative probability distribution of the linear
+ polarization degree of 674 bursts and employ the SD method to quantify
+ constraint results. Figure 6 presents the cumulative probability distribution
+ of linear polarization, which showsthatover80%ofburstshavealinear
+ polarization fraction exceeding 90%. After removing those PA data below a
+ given linear polarization threshold, we can calculate the coupling constant
+ gaγ for the remainingPAdata.Thisgaγvalueisthendividedbythatobtained
+ from the total PA dataset for normalization. Taking the linear polarization
+ threshold from 60% to 100%, the relative variations of gaγ are also depicted
+ in Fig. 6. The absenceof asignificant reduction in gaγafterremoving the low
+ polarization degree data suggests that non-linearly polarized data have little
+ impact on our results.
+ The influence of the Dark matter density
+ TheassumptionofDMdensityemployedinthispaperisapproximate,butit
+ canbeshownthatitsimpactonourresultsisnegligible.Theprecisionofthe
+ VLBI localization corresponds to a physical length of less than 10 pc85,
+ allowing us to disregard the location error. The errors associated with the
+ generalized NFW profile, characterized by three parameters and their
+ errors, are as follows: ρ0 ¼ 0:41þ0:47
+ 0:24 M pc 3, rs ¼ 2:2þ0:8
+ 0:7 kpc, and
+ β ¼0:0þ0:5
+ 0:6
+ 84. We estimate the errors in DMdensity by randomlysampling
+ parameters from their error distributions. The best-fit generalized NFW
+ profile of NGC 4451 and its 95% CL are shown in Fig. 7.Wefind that the
+ 95%CLlowerlimitofDMdensityataradiusof0.8 kpcissimilartothatnear
+ the Earth. Therefore, in the worst-case scenario, the DM density is set to a
+ value near the Earth (ρ ~0.01M⊙pc−3), resulting in a coupling constant
+ limit gaγ that is four times larger. In general, since gaγ is proportional to the
+ square root of DMdensity,anyestimation deviation in DMdensity mustbe
+ significant to meaningfully affect our results.
+ Data availability
+ Raw data are available from the FAST data center: https://fast.bao.ac.cn.
+ Owingtothelargedatavolume,weencouragecontactingthecorresponding
+ author for the raw data transfer. The processed PA data and the derived
+ constraints on ALP-photon coupling constant gaγ from the FRB polariza
+tions are available in Supplementary Data 1.
+ Codeavailability
+ HEIMDALL (https://sourceforge.net/projects/heimdall-astro)PSRCHIVE
+ (https://psrchive.sourceforge.net) P
+ AC (https://psrchive.sourceforge.net/
+ appendices/basis/basis.pdf) F
+ Rion (https://github.com/CIRADA-Tools/
+ FRion).
+ Received: 2 September 2024; Accepted: 14 March 2025;
+ References
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ Preskill, J., Wise, M. B.&Wilczek,F.Cosmologyoftheinvisibleaxion.
+ Phys. Lett. B 120, 127–132 (1983).
+ Abbott,L.F.&Sikivie,P.Acosmologicalboundontheinvisibleaxion.
+ Phys. Lett. B 120, 133–136 (1983).
+ Dine, M. &Fischler, W. The not-so-harmless axion. Phys. Lett. B 120,
+ 137–141 (1983).
+ Khlopov, M. Y., Sakharov, A. S. & Sokoloff, D. D. The nonlinear
+ modulation of the density distribution in standard axionic CDM and
+ its cosmological impact. Nucl. Phys. B Proc. Suppl. 72, 105–109
+ (1999).
+ Marsh, D. J. E. Axion cosmology. Phys. Rep. 643,1–79 (2016).
+ Communications Physics|          (2025) 8:130 
+6
+Article
+ https://doi.org/10.1038/s42005-025-02045-w
+ 6.
+ 7.
+ 8.
+ Choi, K., Im, S. H. & Shin, C. S. Recent Progress in the Physics of
+ Axions and Axion-Like Particles. Annu. Rev. Nucl. Part. Sci. 71,
+ 225–252 (2021).
+ Hu,W.,Barkana,R.&Gruzinov,A.FuzzyColdDarkMatter:TheWave
+ Properties of Ultralight Particles. Phys. Rev. Lett. 85, 1158–1161
+ (2000).
+ Hui, L., Ostriker, J. P., Tremaine, S. & Witten, E. Ultralight scalars as
+ cosmological dark matter. Phys. Rev. D. 95, 043541 (2017).
+ Hui, L. Wave Dark Matter. ARAA 59, 247–289 (2021).
+ 9.
+ 10. Horns, D. et al. Searching for WISPy cold dark matter with a dish
+ antenna. J. Cosmol. Astropart. Phys. 2013, 016 (2013).
+ 11. Payez, A. et al. Revisiting the SN1987A gamma-ray limit on ultralight
+ axion-like particles. J. Cosmol. Astropart. Phys. 2015, 006–006
+ (2015).
+ 12. Anastassopoulos, V. et al. New CAST limit on the axion-photon
+ interaction. Nat. Phys. 13, 584–590 (2017).
+ 13. Du,N.etal.SearchforInvisibleAxionDarkMatterwiththeAxionDark
+ Matter Experiment. Phys. Rev. Lett. 120, 151301 (2018).
+ 14. Graham,P.W.&Rajendran,S.Newobservablesfordirectdetectionof
+ axion dark matter. Phys. Rev. D. 88, 035023 (2013).
+ 15. Budker,D.,Graham,P.W.,Ledbetter,M.,Rajendran,S.&Sushkov,A.
+ O. Proposal for a Cosmic Axion Spin Precession Experiment
+ (CASPEr). Phys. Rev. X 4, 021030 (2014).
+ 16. Ivanov, M. M. et al. Constraining the photon coupling of ultra-light
+ dark-matter axion-like particles by polarization variations of parsec
+scale jets in active galaxies. J. Cosmol. Astropart. Phys. 2019, 059
+ (2019).
+ 17. Chen, Y., Shu, J., Xue, X., Yuan, Q. & Zhao, Y. Probing Axions with
+ Event Horizon Telescope Polarimetric Measurements. Phys. Rev.
+ Lett. 124, 061102 (2020).
+ 18. Liu, T., Smoot, G. & Zhao, Y. Detecting axionlike dark matter with
+ linearly polarized pulsar light. Phys. Rev. D. 101, 063012 (2020).
+ 19. Yuan,G.-W. et al. Testing the ALP-photon coupling with polarization
+ measurements of Sagittarius A⋆. J. Cosmol. Astropart. Phys. 2021,
+ 018 (2021).
+ 20. Gan,X.,Wang,L.-T.&Xiao,H.Detectingaxiondarkmatterwithblack
+ hole polarimetry. Phys. Rev. D. 110, 063039 (2024).
+ 21. Dessert, C., Foster, J. W. & Safdi, B. R. X-Ray Searches for Axions
+ from Super Star Clusters. Phys. Rev. Lett. 125, 261102 (2020).
+ 22. Meyer, M., Petrushevska, T. & Fermi-LAT Collaboration. Search for
+ Axionlike-Particle-Induced Prompt γ-Ray Emission from
+ Extragalactic Core-Collapse Supernovae with the Fermi Large Area
+ Telescope. Phys. Rev. Lett. 125, 119901 (2020).
+ 23. Fedderke, M. A., Graham, P. W. & Rajendran, S. Axion dark
+ matter detection with CMB polarization. Phys. Rev. D. 100, 015040
+ (2019).
+ 24. Fujita, T., Tazaki, R. & Toma, K. Hunting Axion Dark Matter with
+ Protoplanetary Disk Polarimetry. Phys. Rev. Lett. 122, 191101(2019).
+ 25. Caputo,A.etal.Constraintsonmillichargeddarkmatterandaxionlike
+ particlesfromtimingofradiowaves.Phys.Rev.D.100,063515(2019).
+ 26. Castillo, A. et al. Searching for dark-matter waves with PPTA and
+ QUIJOTEpulsar polarimetry. J. Cosmol. Astropart. Phys. 2022, 014
+ (2022).
+ 27. Liu, T., Lou, X. & Ren, J. Pulsar Polarization Arrays. Phys. Rev. Lett.
+ 130, 121401 (2023).
+ 28. Carroll,S.M.,Field,G.B.&Jackiw,R.LimitsonaLorentz-andparity
+violating modification of electrodynamics. Phys. Rev. D. 41,
+ 1231–1240 (1990).
+ 29. Harari, D. & Sikivie, P. Effects of a Nambu-Goldstone boson on the
+ polarization of radio galaxiesandthecosmicmicrowavebackground.
+ Phys. Lett. B 289,67–72 (1992).
+ 30. Lorimer, D. R., Bailes, M., McLaughlin, M. A., Narkevic, D. J. &
+ Crawford, F. A Bright Millisecond Radio Burst of Extragalactic Origin.
+ Science 318, 777 (2007).
+ 31. Thornton,D.etal.APopulationof FastRadioBurstsatCosmological
