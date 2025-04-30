@@ -1,0 +1,712 @@
+JWST Proposal 1287 (Created: Friday, December 6, 2024, 1:00:48PM Eastern Standard Time) - Overview
+ 1287 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ Cycle: 1, Proposal Category: GTO
+ INVESTIGATORS
+ Name
+ Dr. Kate  Isaak   (PI) (ESA Member)
+ Dr. Marcia J. Rieke   (CoI)    (US Admin CoI)
+ Dr. Pierre  Ferruit   (CoI) (ESA Member)
+ Dr. Nora  Luetzgendorf   (CoI) (ESA Member)
+ OBSERVATIONS
+ Folder Observation
+ Observation Folder
+ 1
+ Label
+ Institution
+ European Space Agency - ESTEC
+ University of Arizona
+ ESA-European Space Astronomy Centre
+ European Space Agency - ESTEC
+ Observing Template
+ GOODS-S Deep/JWST NIRSpec MultiObject Spectroscopy
+ 3
+ ABSTRACT
+ GOODS-S Deep/JWST NIRSpec MultiObject Spectroscopy
+ Science Target
+ (3) 1287_trim_final_clean
+ (3) 1287_trim_final_clean
+ We will conduct an ambitious deep-field survey to study the formation and evolution of galaxies from z  12 to z  2.  Our program combines NIRSpec,
+ NIRCam, and MIRI data, alongside the deepest data from HST, Chandra, ALMA, and JVLA, to produce an unprecedented view of high-redshift
+ galaxies.  The program is a collaboration of the NIRSpec and NIRCam GTO teams, and it combines imaging and spectroscopy as well as full use of
+ coordinated parallel observations to get the best out of all three instruments.  Indeed, to pursue a detailed understanding of galaxy evolution, the
+ combination of imaging and spectroscopy is critical.  By bringing these data sets together on a single field, we will carry out systematic
+ investigations far beyond the sum of the parts.
+ This survey will provide the rest-frame optical data of sufficient area, depth, and spectral resolutions to map galaxy population properties, including
+ the joint distribution of stellar mass, luminosity, star formation rate, stellar ages, sizes, metallicity, nuclear activity, gas kinematics, and outflows,
+ over a wide range of redshifts.  Broadly speaking, spectroscopy (at R = 100, 1000, and 2700) provides precise and robust redshifts, measurement of
+ the stellar continuum, and emission lines to z  10 and beyond. The emission lines allow us to diagnose the galaxies’ star formation rate (SFR),
+ 1
+JWST Proposal 1287 (Created: Friday, December 6, 2024, 1:00:48PM Eastern Standard Time) - Overview
+ metallicities, chemical abundances, the ISM dust-reddening, and the ISM excitation, including signatures of AGNs. Low-resolution spectroscopy
+ (R=100) for the brighter objects can also diagnose the stellar populations (especially the stellar age distribution). High-resolution spectroscopy
+ (R=2700) can diagnose internal galaxy kinematics and outflows.
+ The multi-wavelength NIRCam imaging will allow the detection, selection and characterization of galaxies to z = 15 and perhaps beyond.  It will
+ determine colors, morphological structure, and color gradients, while supplying photometric redshifts, stellar mass, and star formation rate estimates
+ along with measures of equivalent widths of the strongest emission lines. The depth reached is unparalleled and will lead to luminosity functions to
+ substantially higher redshift and lower mass than can be done with HST.  Deep MIRI imaging will enable a rest-frame infrared view of subset of our
+ sample, testing the assumptions of our UV/optical modeling and revealing heavily obscured stellar populations and nuclear activity.  Combination
+ with external data from Chandra, JVLA, and ALMA will further explore nuclear activity and dusty star formation. We expect that this carefully
+ constructed survey will provide a primary legacy dataset for many years to come.
+ OBSERVING DESCRIPTION
+ This file contains part of the "NIRSpec follow-up" phase of the overall program and specifically includes the NIRSpec DEEP/JWST observations
+ with NIRCam imaging in parallel.
+ These observations have an "on hold" special requirement. The scheduling requirement is that the first observation in this file should be done at least
+ 60 days after the last observation in the NIRCam "pre-imaging" program 1180 to allow time for data analysis and MSA configuration set-up.
+ *Deep/JWST**
+ NIRSpec GTO team observations of GOODS-S with NIRCam in parallel.
+ For V3PA=310 (NIRSpec MSA PA=88.49).
+ Note all positions may need to be changed for any other PA.
+ **A note on NIRSpec MSA catalog and configurations**
+ A dummy, very small catalog was used to prepare these configurations to avoid the problem of slow loading of APT files with large catalogs used in
+ many MSA configurations.
+ A real target catalog is included in the MPT part of the APT file, but was not used in these dummy configurations.
+ The actual targets entering the MSA shutters will be defined, with target prioritisation, only after the instrument distortion is characterized during
+ 2
+JWST Proposal 1287 (Created: Friday, December 6, 2024, 1:00:48PM Eastern Standard Time) - Overview
+ commissioning, and after analysis of NIRCam pre-imaging.
+ 3
+Proposal 1287 - Targets - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ Fixed Targets
+ #
+ (3)
+ Comments:
+ Name
+ 1287_trim_final_clean
+ Target Coordinates
+ RA: 03 32 19.5327 (53.0813863d)
+ Dec: -27 51 59.31 (-27.86647d)
+ Equinox: J2000
+ Targ. Coord. Corrections
+ 4
+ Miscellaneous
+ Description=[]
+Proposal 1287 - Observation 1 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ Observation
+ Proposal 1287, Observation 1: GOODS-S Deep/JWST
+ Diagnostic Status: Warning
+ Observing Template: NIRSpec MultiObject Spectroscopy
+ Coordinated Parallel Template(s): NIRCam Imaging
+ 5
+ Fri Dec 06 18:00:48 GMT 2024
+Diagnostics
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#17) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#17) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#18) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#18) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#19) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#19) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#20) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_g (#20) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#21) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#21) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#21) has 7 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#22) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#22) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#22) has 7 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#23) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#23) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#23) has 7 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#24) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#24) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa1_p (#24) has 7 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#1) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#1) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#2) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#2) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#3) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#3) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#4) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_g (#4) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#5) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#5) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#5) has 5 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#6) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#6) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#6) has 5 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#7) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#7) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#7) has 5 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#8) has 1 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#8) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa2_p (#8) has 5 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#10) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#10) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#11) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#11) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#12) has 3 primary slit traces affected by failed open shutters.
+ Proposal 1287 - Observation 1 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 6
+(GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#12) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#9) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_g (#9) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#13) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#13) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#13) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#14) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#14) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#14) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#15) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#15) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#15) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#16) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#16) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 1)) Warning (Form): Config c1 : ipa5_p (#16) has 7 primary slit traces affected by failed open shutters.
+ (Visit 1:1) Warning (Form): Overheads are provisional until the Visit Planner has been run.
+ (Visit 1:2) Warning (Form): Overheads are provisional until the Visit Planner has been run.
+ (Visit 1:3) Warning (Form): Overheads are provisional until the Visit Planner has been run.
+ Fixed Targets
+ # Name Target Coordinates Targ. Coord. Corrections Miscellaneous
+ (3) 1287_trim_final_clean RA: 03 32 19.5327 (53.0813863d)
+ Dec: -27 51 59.31 (-27.86647d)
+ Equinox: J2000
+ Comments:
+ Description=[]
+ Acquisition
+ NIRSpec
+ MultiObject
+ Spectroscopy
+ Reference Star
+ Bin
+ Target Filter MSA
+ Configuration
+ Readout Pattern Groups/Int Integrations/Exp Total
+ Integrations
+ Total Exposure
+ Time
+ ETC Wkbk.Calc
+ ID
+ 1 Filter: CLEAR;
+ Readout:
+ NRSRAPIDD6; 8
+ sources in 3
+ quads; [ Optimal
+ TA Accuracy ]
+ SAME CLEAR Auto Acq MSA
+ Config
+ NRSRAPIDD6 3 1 4 687.153
+ 2 Filter: CLEAR;
+ Readout:
+ NRSRAPIDD6; 8
+ sources in 3
+ quads; [ Optimal
+ TA Accuracy ]
+ SAME CLEAR Auto Acq MSA
+ Config
+ NRSRAPIDD6 3 1 4 687.153
+ 3 Filter: CLEAR;
+ Readout:
+ NRSRAPIDD6; 8
+ sources in 4
+ quads; [ Optimal
+ TA Accuracy ]
+ SAME CLEAR Auto Acq MSA
+ Config
+ NRSRAPIDD6 3 1 4 687.153
+ Proposal 1287 - Observation 1 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 7
+Template
+ NIRSpec MultiObject Spectroscopy NIRCam Imaging
+ TA Method: MSATA Module: ALL
+ HFF Readout Mode: false Subarray: FULL
+ Obtain Confirmation Images: No
+ Science Aperture: MSA Center
+ Primary Candidate List: 1287_trim_final_clean (55382 sources)
+ Filler Candidate List: null
+ Spectral Overlap Map: jwst-nirspec-hr
+ Spectral Overlap Threshold: 1.5
+ Reference Stars
+ Visit ID RA Dec Magnitude Visit ID RA Dec Magnitude
+ 1 58591 53.100664-27.858490 25.20 1 165902 53.078854-27.884155 23.70
+ 1 162856 53.115819-27.891452 23.50 1 174616 53.106900-27.867992 24.93
+ 1 162977 53.068536-27.891253 24.57 1 179383 53.101398-27.860365 24.91
+ 1 165021 53.067325-27.886327 24.44 1 179883 53.104668-27.859798 24.45
+ Visit ID RA Dec Magnitude Visit ID RA Dec Magnitude
+ 2 162856 53.115819-27.891452 23.50 2 174218 53.098269-27.868726 24.22
+ 2 162977 53.068536-27.891253 24.57 2 174616 53.106900-27.867992 24.93
+ 2 165021 53.067325-27.886327 24.44 2 179383 53.101398-27.860365 24.91
+ 2 165902 53.078854-27.884155 23.70 2 179883 53.104668-27.859798 24.45
+ Visit ID RA Dec Magnitude Visit ID RA Dec Magnitude
+ 3 47422 53.070005-27.865030 25.40 3 165021 53.067325-27.886327 24.44
+ 3 58591 53.100664-27.858490 25.20 3 165902 53.078854-27.884155 23.70
+ 3 162856 53.115819-27.891452 23.50 3 174616 53.106900-27.867992 24.93
+ 3 162977 53.068536-27.891253 24.57 3 179383 53.101398-27.860365 24.91
+ Dithers
+ # Dither Type
+ 1 NONE
+ Proposal 1287 - Observation 1 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 8
+Spectral Elements
+ NIRSpec
+ MultiObject
+ Spectroscopy
+ Exposure
+ Specification
+ MSA
+ Configuration
+ Nod Pattern Pointing Aperture PA Dispersion Offset
+ (Shutters)
+ Cross-Dispersion
+ Offset (Shutters)
+ Total Dithers Total
+ Integrations
+ Total Exposure
+ Time
+ 1 1
+ (G140M/F070LP)
+ c1 : ipa2_g 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 2 2
+ (G235M/F170LP)
+ c1 : ipa2_g 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 3 4
+ (G395H/F290LP)
+ c1 : ipa2_g 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 4 3
+ (G395M/F290LP)
+ c1 : ipa2_g 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 5 5
+ (PRISM/CLEAR)
+ c1 : ipa2_p 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 6 5
+ (PRISM/CLEAR)
+ c1 : ipa2_p 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 7 5
+ (PRISM/CLEAR)
+ c1 : ipa2_p 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 8 5
+ (PRISM/CLEAR)
+ c1 : ipa2_p 3 Shutter Slitlet 53.091930833333
+ 336 Degrees 
+27.877138888888
+ 908 Degrees
+ 191.56969999606
+ 358
+ 3 6 8403.201
+ 9 1
+ (G140M/F070LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 10 2
+ (G235M/F170LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 11 4
+ (G395H/F290LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 12 3
+ (G395M/F290LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 13 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 14 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ Proposal 1287 - Observation 1 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 9
+NIRSpec
+ MultiObject
+ Spectroscopy
+ Exposure
+ Specification
+ MSA
+ Configuration
+ Nod Pattern Pointing Aperture PA Dispersion Offset
+ (Shutters)
+ Cross-Dispersion
+ Offset (Shutters)
+ Total Dithers Total
+ Integrations
+ Total Exposure
+ Time
+ 15 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 16 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 17 1
+ (G140M/F070LP)
+ c1 : ipa1_g 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ 18 2
+ (G235M/F170LP)
+ c1 : ipa1_g 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ 19 4
+ (G395H/F290LP)
+ c1 : ipa1_g 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ 20 3
+ (G395M/F290LP)
+ c1 : ipa1_g 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ 21 5
+ (PRISM/CLEAR)
+ c1 : ipa1_p 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ 22 5
+ (PRISM/CLEAR)
+ c1 : ipa1_p 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ 23 5
+ (PRISM/CLEAR)
+ c1 : ipa1_p 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ 24 5
+ (PRISM/CLEAR)
+ c1 : ipa1_p 3 Shutter Slitlet 53.091964583333
+ 33 Degrees 
+27.876994444444
+ 45 Degrees
+ 191.56968404030
+ 06
+ 3 6 8403.201
+ Proposal 1287 - Observation 1 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 10
+Spectral Elements
+ NIRCam Imaging Short Filter Long Filter Readout Pattern Groups/Int Integrations/Exp Total Integrations Total Dithers Total Exposure
+ Time
+ ETC Wkbk.Calc
+ ID
+ 1 F115W F444W DEEP8 7 2 6 3 8278.05
+ 2 F090W F410M DEEP8 7 2 6 3 8278.05
+ 3 F090W F410M DEEP8 7 2 6 3 8278.05
+ 4 F200W F277W DEEP8 7 2 6 3 8278.05
+ 5 F150W F356W DEEP8 7 2 6 3 8278.05
+ 6 F162M+F150W2 F335M DEEP8 7 2 6 3 8278.05
+ 7 F182M F300M DEEP8 7 2 6 3 8278.05
+ 8 F115W F444W DEEP8 7 2 6 3 8278.05
+ 9 F115W F444W DEEP8 7 2 6 3 8278.05
+ 10 F115W F410M DEEP8 7 2 6 3 8278.05
+ 11 F115W F410M DEEP8 7 2 6 3 8278.05
+ 12 F200W F277W DEEP8 7 2 6 3 8278.05
+ 13 F150W F356W DEEP8 7 2 6 3 8278.05
+ 14 F162M+F150W2 F335M DEEP8 7 2 6 3 8278.05
+ 15 F182M F300M DEEP8 7 2 6 3 8278.05
+ 16 F090W F444W DEEP8 7 2 6 3 8278.05
+ 17 F115W F444W DEEP8 7 2 6 3 8278.05
+ 18 F150W F356W DEEP8 7 2 6 3 8278.05
+ 19 F150W F356W DEEP8 7 2 6 3 8278.05
+ 20 F090W F410M DEEP8 7 2 6 3 8278.05
+ 21 F115W F444W DEEP8 7 2 6 3 8278.05
+ 22 F162M+F150W2 F335M DEEP8 7 2 6 3 8278.05
+ 23 F182M F300M DEEP8 7 2 6 3 8278.05
+ 24 F200W F277W DEEP8 7 2 6 3 8278.05
+ Special Requirements
+ Group Visits within 53.0 Days
+ Visits Same PA
+ No Parallel Attachments
+ MSA Scheduled Aperture PA 191.5746 to 191.5746 Degrees (V3 53.0 to 53.0)
+ Proposal 1287 - Observation 1 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 11
+Observation
+ Proposal 1287, Observation 3: GOODS-S Deep/JWST Fri Dec 06 18:00:49 GMT 2024
+ Diagnostic Status: Warning
+ Observing Template: NIRSpec MultiObject Spectroscopy
+ Coordinated Parallel Template(s): NIRCam Imaging
+ Diagnostics
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#1) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#1) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#2) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#2) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#3) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#3) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#4) has 3 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_g (#4) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#5) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#5) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#5) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#6) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#6) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#6) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#7) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#7) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#7) has 7 primary slit traces affected by failed open shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#8) has 1 master background shutters affected by failed open or closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#8) has 3 primary slits affected by failed closed shutters.
+ (GOODS-S Deep/JWST (Obs 3)) Warning (Form): Config c1 : ipa5_p (#8) has 7 primary slit traces affected by failed open shutters.
+ (Visit 3:1) Warning (Form): Overheads are provisional until the Visit Planner has been run.
+ Fixed Targets
+ # Name Target Coordinates Targ. Coord. Corrections Miscellaneous
+ (3) 1287_trim_final_clean RA: 03 32 19.5327 (53.0813863d)
+ Dec: -27 51 59.31 (-27.86647d)
+ Equinox: J2000
+ Comments:
+ Description=[]
+ Acquisition
+ NIRSpec
+ MultiObject
+ Spectroscopy
+ Reference Star
+ Bin
+ Target Filter MSA
+ Configuration
+ Readout Pattern Groups/Int Integrations/Exp Total
+ Integrations
+ Total Exposure
+ Time
+ ETC Wkbk.Calc
+ ID
+ 1 Filter: CLEAR;
+ Readout:
+ NRSRAPIDD6; 8
+ sources in 3
+ quads; [ Optimal
+ TA Accuracy ]
+ SAME CLEAR Auto Acq MSA
+ Config
+ NRSRAPIDD6 3 1 4 687.153
+ Proposal 1287 - Observation 3 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 12
+Template
+ NIRSpec MultiObject Spectroscopy NIRCam Imaging
+ TA Method: MSATA Module: ALL
+ HFF Readout Mode: false Subarray: FULL
+ Obtain Confirmation Images: No
+ Science Aperture: MSA Center
+ Primary Candidate List: 1287_trim_final_clean (55382 sources)
+ Filler Candidate List: null
+ Spectral Overlap Map: jwst-nirspec-hr
+ Spectral Overlap Threshold: 1.5
+ Reference Stars
+ Visit ID RA Dec Magnitude Visit ID RA Dec Magnitude
+ 1 162856 53.115819-27.891452 23.50 1 174218 53.098269-27.868726 24.22
+ 1 162977 53.068536-27.891253 24.57 1 174616 53.106900-27.867992 24.93
+ 1 165021 53.067325-27.886327 24.44 1 179383 53.101398-27.860365 24.91
+ 1 165902 53.078854-27.884155 23.70 1 179883 53.104668-27.859798 24.45
+ Dithers
+ # Dither Type
+ 1 NONE
+ Proposal 1287 - Observation 3 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 13
+Spectral Elements
+ NIRSpec
+ MultiObject
+ Spectroscopy
+ Exposure
+ Specification
+ MSA
+ Configuration
+ Nod Pattern Pointing Aperture PA Dispersion Offset
+ (Shutters)
+ Cross-Dispersion
+ Offset (Shutters)
+ Total Dithers Total
+ Integrations
+ Total Exposure
+ Time
+ 1 1
+ (G140M/F070LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 2 2
+ (G235M/F170LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 3 4
+ (G395H/F290LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 4 3
+ (G395M/F290LP)
+ c1 : ipa5_g 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 5 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 6 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 7 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ 8 5
+ (PRISM/CLEAR)
+ c1 : ipa5_p 3 Shutter Slitlet 53.091570833333
+ 33 Degrees 
+27.876841666666
+ 678 Degrees
+ 191.56986741395
+ 949
+ 3 6 8403.201
+ Spectral Elements
+ NIRCam Imaging Short Filter Long Filter Readout Pattern Groups/Int Integrations/Exp Total Integrations Total Dithers Total Exposure
+ Time
+ ETC Wkbk.Calc
+ ID
+ 1 F115W F444W DEEP8 7 2 6 3 8278.05
+ 2 F115W F410M DEEP8 7 2 6 3 8278.05
+ 3 F115W F410M DEEP8 7 2 6 3 8278.05
+ 4 F200W F277W DEEP8 7 2 6 3 8278.05
+ 5 F150W F356W DEEP8 7 2 6 3 8278.05
+ 6 F162M+F150W2 F335M DEEP8 7 2 6 3 8278.05
+ 7 F182M F300M DEEP8 7 2 6 3 8278.05
+ 8 F090W F444W DEEP8 7 2 6 3 8278.05
+ Proposal 1287 - Observation 3 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ 14
+Proposal 1287 - Observation 3 - NIRCam-NIRSpec galaxy assembly survey - GOODS-S - part #3
+ Special Requirements
+ Aperture PA Range 191.5746 to 191.5746 Degrees (V3 53.0000303 to 53.0000303) [MSA Selected]
+ No Parallel Attachments
+ MSA Scheduled Aperture PA 191.5746 to 191.5746 Degrees (V3 53.0000303 to 53.0000303)
