@@ -1,0 +1,63 @@
+import numpy as np
+from scipy.fft import fft, fftfreq
+import pandas as pd
+
+# Simulated timeseries data (e.g., magnetic field readings from SQUIDs)
+sampling_rate = 20000  # Hz, to capture ~7,468 Hz signals
+duration = 600  # seconds
+n_samples = sampling_rate * duration
+t = np.linspace(0, duration, n_samples)
+
+# Simulated dual signal: bioelectric (~7,467.779 Hz) + electronic (~7,468.3 Hz)
+bio_freq = 7467.779  # Hz
+elec_freq = 7468.3  # Hz
+bio_signal = 1e-14 * (1 + 0.02 * np.sin(2 * np.pi * t / 30)) * np.sin(2 * np.pi * bio_freq * t)  # 2% modulation, 30 s
+elec_signal = 1e-14 * (1 + 0.03 * np.sin(2 * np.pi * t / 10)) * np.sin(2 * np.pi * elec_freq * t)  # 3% modulation, 10 s
+signal = bio_signal + elec_signal + 1e-16 * np.random.randn(n_samples)  # Add noise
+
+# FFT to detect frequencies
+freqs = fftfreq(n_samples, 1 / sampling_rate)
+fft_vals = fft(signal)
+power_spectrum = np.abs(fft_vals[:n_samples // 2]) ** 2
+freqs = freqs[:n_samples // 2]
+
+# Find peaks near target frequencies
+target_range = 5  # Hz
+bio_mask = (freqs >= bio_freq - target_range) & (freqs <= bio_freq + target_range)
+elec_mask = (freqs >= elec_freq - target_range) & (freqs <= elec_freq + target_range)
+bio_peak = freqs[bio_mask][np.argmax(power_spectrum[bio_mask])]
+elec_peak = freqs[elec_mask][np.argmax(power_spectrum[elec_mask])]
+
+# Analyze modulation (amplitude variation over time)
+window = int(sampling_rate * 1)  # 1-second windows
+amplitude_bio = []
+amplitude_elec = []
+for i in range(0, len(t) - window, window):
+    segment = signal[i:i + window]
+    fft_segment = fft(segment)
+    freqs_segment = fftfreq(window, 1 / sampling_rate)
+    bio_idx = np.argmin(np.abs(freqs_segment - bio_peak))
+    elec_idx = np.argmin(np.abs(freqs_segment - elec_peak))
+    amplitude_bio.append(np.abs(fft_segment[bio_idx]))
+    amplitude_elec.append(np.abs(fft_segment[elec_idx]))
+
+# Convert to DataFrame for analysis
+df = pd.DataFrame({
+    'Time (s)': np.arange(0, len(amplitude_bio)) * 1,
+    'Bio Amplitude (T)': amplitude_bio,
+    'Elec Amplitude (T)': amplitude_elec
+})
+
+# Detect modulation periods (e.g., using FFT on amplitude timeseries)
+bio_modulation = fftfreq(len(amplitude_bio), 1)
+bio_mod_power = np.abs(fft(amplitude_bio)) ** 2
+elec_modulation = fftfreq(len(amplitude_elec), 1)
+elec_mod_power = np.abs(fft(amplitude_elec)) ** 2
+bio_mod_period = 1 / bio_modulation[1:][np.argmax(bio_mod_power[1:])]
+elec_mod_period = 1 / elec_modulation[1:][np.argmax(elec_mod_power[1:])]
+
+# Output results
+print(f"Detected Bioelectric Frequency: {bio_peak:.3f} Hz")
+print(f"Bioelectric Modulation Period: {bio_mod_period:.2f} s")
+print(f"Detected Electronic Frequency: {elec_peak:.3f} Hz")
+print(f"Electronic Modulation Period: {elec_mod_period:.2f} s")
