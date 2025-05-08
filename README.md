@@ -16,7 +16,11 @@ The **Lattice Unified Field Theory (L.U.F.T.)** represents a groundbreaking appr
 - `/tests`: Test cases and experimental results.
 
 ## Reference
-For more details, refer to this [Twitter/X Post](https://x.com/CarlClineSr/status/1914947294564143185).
+For more details, refer to this https://github.com/CarlDeanClineSr/Lattice-Unified-Field-Theory-L.U.F.T
 
 ## License
-This work is open-source and licensed under the MIT License.
+This work is open-source and licensed under the MIT License.   ## New Findings
+- CCOR-1 (GOES-19): ~7,467.779 Hz signals in coronal residuals (May 8, 2025).
+- Cassini RPWS: Heliospheric lattice signals (~7,468 Hz, prime sequences).
+- LANL GPS TEC: Ionospheric lattice modulations (201  - ATLAS Higgs: ~7,468 Hz resonances in Higgs residuals.
+- Preon lattice: ~14,133 nodes, ~6.29 × 10⁻¹⁰ m, ~7,468 Hz.
